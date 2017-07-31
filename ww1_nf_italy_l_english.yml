@@ -1,0 +1,494 @@
+﻿l_english:
+
+
+ #--------------------------------------------------------------
+ # [ITALY] Army Effort
+ #=========================================================================
+ ITA_ww1_army_effort:0 "이탈리아 육군 개선"
+ITA_ww1_army_effort_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_trenchwarfare:0 "참호전 중점"
+ITA_ww1_trenchwarfare_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_artillery_effort_1:0 "포병 개발"
+ITA_ww1_artillery_effort_1_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_artillery_effort_2:0 "포병 개발 II"
+
+ITA_ww1_artillery_effort_2_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_artillery_effort_3:0 "포병 개발 III"
+ITA_ww1_artillery_effort_3_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_artillery_effort_4:0 "포병 개발 IV"
+ITA_ww1_artillery_effort_4_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_special_forces:0 "특수부대"
+ITA_ww1_special_forces_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_army_motorization_focus:0 "기계화 중점"
+ITA_ww1_army_motorization_focus_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_doctrine_effort:0 "교리 개선"
+ITA_ww1_doctrine_effort_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_doctrine_effort_2:0 "교리 개선 II"
+ITA_ww1_doctrine_effort_2_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_doctrine_effort_3:0 "교리 개선 III"
+ITA_ww1_doctrine_effort_3_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_equipment_effort:0 "장비 개선"
+ITA_ww1_equipment_effort_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_equipment_effort_2:0 "장비 개선 II"
+ITA_ww1_equipment_effort_2_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_equipment_effort_3:0 "장비 개선 III"
+ITA_ww1_equipment_effort_3_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_equipment_effort_4:0 "장비 개선 IV"
+ITA_ww1_equipment_effort_4_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_armor_effort_1:0 "기갑 개발"
+ITA_ww1_armor_effort_1_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_armor_effort_2:0 "기갑 개발 II"
+ITA_ww1_armor_effort_2_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_gasmask_focus:0 "화학전 중점"
+ITA_ww1_gasmask_focus_desc:0 "" #KAISER_ANONY
+#--------------------------------------------------------------
+
+
+ # [ITALY] 항공 개발
+ #=========================================================================
+ ITA_ww1_fighter_focus:0 "전투기 중점"
+ITA_ww1_fighter_focus_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_bomber_focus:0 "폭격기 중점"
+ITA_ww1_bomber_focus_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_airship_focus:0 "비행선 중점"
+ITA_ww1_airship_focus_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_aviation_effort:0 "이탈리아 공군 창설"
+ITA_ww1_aviation_effort_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_aviation_effort_2:0 "항공 개발"
+ITA_ww1_aviation_effort_2_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_aviation_effort_3:0 "항공 개발 II"
+ITA_ww1_aviation_effort_3_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_aviation_effort_4:0 "항공 개발 III"
+ITA_ww1_aviation_effort_4_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_aviation_effort_5:0 "항공 개발 IV"
+ITA_ww1_aviation_effort_5_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_pilotformation_1:0 "비행사 편제"
+ITA_ww1_pilotformation_1_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_pilotformation_2:0 "비행사 편제 II"
+ITA_ww1_pilotformation_2_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_aircraftprod_1:0 "항공 생산"
+ITA_ww1_aircraftprod_1_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_aircraftprod_2:0 "항공 생산 II"
+ITA_ww1_aircraftprod_2_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_airbomb_1:0 "공군 폭격"
+ITA_ww1_airbomb_1_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_airbomb_2:0 "공군 폭격 II"
+ITA_ww1_airbomb_2_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_air_innovation:0 "공군 혁신"
+ITA_ww1_air_innovation_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_navalair:0 "뇌격기 개발"
+ ITA_ww1_navalair_desc:0 "" #KAISER_ANONY
+
+ #--------------------------------------------------------------
+
+
+ # [ITALY] 산업 개발
+ #=========================================================================
+ITA_ww1_industrial_effort:0 "산업 개발"
+ITA_ww1_industrial_effort_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_construction_effort:0 "건축 개발"
+ITA_ww1_construction_effort_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_construction_effort_2:0 "건축 개발 II"
+ITA_ww1_construction_effort_2_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_construction_effort_3:0 "건축 개발 III"
+ITA_ww1_construction_effort_3_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_production_effort:0 "병기 개발"
+ITA_ww1_production_effort_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_production_effort_2:0 "병기 개발 II"
+ITA_ww1_production_effort_2_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_production_effort_3:0 "병기 개발 III"
+ITA_ww1_production_effort_3_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_dockyard_effort_1:0 "조선소 확장"
+ITA_ww1_dockyard_effort_1_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_dockyard_effort_2:0 "조선소 확장 II"
+ITA_ww1_dockyard_effort_2_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_dockyard_effort_3:0 "조선소 확장 III"
+ITA_ww1_dockyard_effort_3_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_airfield_expansion_1:0 "공군기지 확장"
+ITA_ww1_airfield_expansion_1_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_airfield_expansion_2:0 "공군기지 확장 II"
+ITA_ww1_airfield_expansion_2_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_airfield_expansion_3:0 "공군기지 확장 III"
+ITA_ww1_airfield_expansion_3_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_infrastructure_effort:0 "기반시설 개발"
+ITA_ww1_infrastructure_effort_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_infrastructure_effort_2:0 "기반시설 개발 II"
+ITA_ww1_infrastructure_effort_2_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_infrastructure_effort_3:0 "기반시설 개발 III"
+ITA_ww1_infrastructure_effort_3_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_infrastructure_effort_4:0 "기반시설 개발 IV"
+ITA_ww1_infrastructure_effort_4_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_extra_tech_slot:0 "연구 슬롯 확장"
+ITA_ww1_extra_tech_slot_desc:0 "" #KAISER_ANONY
+
+ITA_ww1_extra_tech_slot_2:0 "연구 슬롯 확장 II"
+ITA_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
+ #--------------------------------------------------------------
+
+
+ # [ITALY] Naval Effort
+ #=========================================================================
+ ITA_ww1_naval_effort:0 "이탈리아 해군 강화"
+ITA_ww1_naval_effort_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_newnavalcanons_1:0 "함포 개발"
+ITA_ww1_newnavalcanons_1_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_newnavalcanons_2:0 "함포 개발 II"
+ITA_ww1_newnavalcanons_2_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_newnavalcanons_3:0 "함포 개발 III"
+ITA_ww1_newnavalcanons_3_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_dreadnought_effort:0 "드레드노트 개발"
+ITA_ww1_dreadnought_effort_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_flexible_navy:0 "유연한 해군"
+ITA_ww1_flexible_navy_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_large_navy:0 "대양 해군"
+ITA_ww1_large_navy_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_navyreform:0 "해군 편제"
+ITA_ww1_navyreform_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_submarine_effort:0 "잠수함 개발"
+ITA_ww1_submarine_effort_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_cruiser_effort:0 "순양함 개발"
+ITA_ww1_cruiser_effort_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_destroyer_effort:0 "구축함 개발"
+ITA_ww1_destroyer_effort_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_capital_ships_effort:0 "주력함 개발"
+ITA_ww1_capital_ships_effort_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_carrier_focus:0 "항공모함 개발"
+ITA_ww1_carrier_focus_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_antisubmarine:0 "대잠전"
+ ITA_ww1_antisubmarine_desc:0 "" #KAISER_ANONY
+
+ #--------------------------------------------------------------
+
+
+ # [ITALY] 정치 주력
+ #=========================================================================
+ ITA_ww1_political_effort:0 "정치 주력"
+ ITA_ww1_political_effort_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_sovereignist_ethos:0 "주권보호 성향"
+ ITA_ww1_sovereignist_ethos_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_support_republic:0 "공화국의 권한 강화"
+ ITA_ww1_support_republic_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_contest_republic:0 "공화국의 권한에 이의제기"
+ ITA_ww1_contest_republic_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_internationalism_focus:0 "국제주의 중점"
+ ITA_ww1_internationalism_focus_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_militarism:0 "군국주의"
+ ITA_ww1_militarism_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_indoctrination_focus:0 "사상 주입"
+ ITA_ww1_indoctrination_focus_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_political_commissars:0 "정치 장교"
+ ITA_ww1_political_commissars_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_paramilitarism:0 "준군사주의"
+ ITA_ww1_paramilitarism_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_political_correctness:0 "정치적 올바름"
+ ITA_ww1_political_correctness_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_military_youth:0 "유소년 군사조직"
+ ITA_ww1_military_youth_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_student_movement_focus:0 "학생 운동"
+ ITA_ww1_student_movement_focus_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_monarchy:0 "권위주의 중점"
+ ITA_ww1_monarchy_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_democracy:0 "민주주의 중점"
+ ITA_ww1_democracy_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_centralizedpower:0 "관료제"
+ ITA_ww1_centralizedpower_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_freespeech:0 "언론의 자유"
+ ITA_ww1_freespeech_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_organize_colony:0 "식민지 내무부"
+ ITA_ww1_organize_colony_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_reorganization_act:0 "재편성 법"
+ ITA_ww1_reorganization_act_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_limited_rearmament:0 "제한적인 재무장"
+ ITA_ww1_limited_rearmament_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_full_rearmament:0 "완전한 재무장"
+ ITA_ww1_full_rearmament_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_unitedpeople:0 "애국적인 열정"
+ ITA_ww1_unitedpeople_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_massive_effort:0 "국가총동원"
+ ITA_ww1_massive_effort_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_fortify_city:0 "도시 요새화"
+ ITA_ww1_fortify_city_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_fortify_coast:0 "해안 방어"
+ ITA_ww1_fortify_coast_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_leave_triple_entente:0 "협상국 탈퇴"
+ ITA_ww1_leave_triple_entente_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_leave_triple_alliance:0 "동맹국 탈퇴"
+ ITA_ww1_leave_triple_alliance_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_install_communism:0 "프롤레타리아 혁명"
+ ITA_ww1_install_communism_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_install_democracy:0 "자유 선거"
+ ITA_ww1_install_democracy_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_fascist_coup:0 "파시스트 쿠데타"
+ ITA_ww1_fascist_coup_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_oppression_minorities:0 "소수민족 억압"
+ ITA_ww1_oppression_minorities_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_france_friend:0 "프랑스-독일 친선"
+ ITA_ww1_france_friend_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_review_options:0 "떠나기전에 선택지 검토"
+ ITA_ww1_review_options_desc:0 "If we want to leave our faction, we need to review our options before."
+
+ #--------------------------------------------------------------
+
+
+ # [ITALY] 외교 주력
+ #=========================================================================
+
+ leaved_triple_entente:0 "(이)가 협상국을 탈퇴했습니다"
+
+ leaved_triple_alliance:0 "(이)가 동맹국을 탈퇴했습니다"
+
+ triple_alliance_opinion:0 "외교 보너스"
+
+ join_entente:0 "(이)가 협상국에 가입했습니다"
+
+ join_centralpower:0 "(이)가 동맹국에 가입했습니다"
+
+
+
+
+
+
+ ITA_Lib_War_End:0 "이탈리아-오스만 전쟁이 끝났습니다"
+
+ ITA_ww1_diplomatic_effort:0 "외교 주력"
+ ITA_ww1_diplomatic_effort_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_europe_focus:0 "유럽 중점"
+ ITA_ww1_europe_focus_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_recognize_albania:0 "알바니아를 인정하다"
+ ITA_ww1_recognize_albania_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_second_balkan_war_finished:0 "부쿠레슈티 조약을 인정하다"
+ ITA_ww1_second_balkan_war_finished_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_the_great_war_started:0 "유럽 전쟁"
+ ITA_ww1_the_great_war_started_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_triple_entente:0 "협상국 가입"
+ ITA_ww1_triple_entente_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_back_uk:0 "영국을 지원한다"
+ ITA_ww1_back_uk_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_back_france:0 "프랑스와 비밀거래 제안"
+ ITA_ww1_back_france_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_send_diplomats_entente:0 "이탈리아 외교관 파견"
+ ITA_ww1_send_diplomats_entente_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_anti_ger:0 "반독일 정책"
+ ITA_ww1_anti_ger_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_anti_ah:0 "반오-헝 정책"
+ ITA_ww1_anti_ah_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_anti_ottoman:0 "반오스만 정책"
+ ITA_ww1_anti_ottoman_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_tyrol:0 "티롤 영유권 주장"
+ ITA_ww1_tyrol_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_trieste_tyrol:0 "이탈리아 고토 영유권 주장"
+ ITA_ww1_trieste_tyrol_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_german_africa:0 "독일령 아프리카 영유권 주장"
+ ITA_ww1_german_africa_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_central_power:0 "동맹국 가입"
+ ITA_ww1_central_power_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_back_ger:0 "독일을 지원한다"
+ ITA_ww1_back_ger_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_back_ah:0 "오-헝을 지원한다"
+ ITA_ww1_back_ah_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_send_diplomats_alliance:0 "이탈리아 외교관 파견"
+ ITA_ww1_send_diplomats_alliance_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_anti_fra:0 "반프랑스 정책"
+ ITA_ww1_anti_fra_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_anti_uk:0 "반영국 정책"
+ ITA_ww1_anti_uk_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_anti_ru:0 "반러시아 정책"
+ ITA_ww1_anti_ru_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_egypt:0 "이집트 요구"
+ ITA_ww1_egypt_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_french_claims:0 "사보이 요구"
+ ITA_ww1_french_claims_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_tunisia:0 "북아프리카 영유권 주장"
+ ITA_ww1_tunisia_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_italian_development:0 "이탈리아 개발"
+ ITA_ww1_italian_development_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_italian_highways:0 "이탈리아 고속도로"
+ ITA_ww1_italian_highways_desc:0 "We need to expand our infrastructure to ensure easy mobility of troops throughout our empire. With enemies at every corner of the world this is a crucial part of being able to defend all Italian soil."
+
+ ITA_ww1_fortification_effort_alliance:0 "서알파인 요새화"
+ ITA_ww1_fortification_effort_alliance_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_fortification_effort_entente:0 "북알파인 요새화"
+ ITA_ww1_fortification_effort_entente_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_fortification_effort_sardinia:0 "사르디냐 요새화"
+ ITA_ww1_fortification_effort_sardinia_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_fortification_effort_sicily:0 "시칠리아 요새화"
+ ITA_ww1_fortification_effort_sicily_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_invest_military:0 "군수공장 투자"
+ ITA_ww1_invest_military_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_invest_civil:0 "민간공장 투자"
+ ITA_ww1_invest_civil_desc:0 "" #KAISER_ANONY
+
+
+ ITA_ww1_ready_country:0 "전쟁 준비"
+ ITA_ww1_ready_country_desc:0 "World Tension is increasing. We should prepare the Country for War. Let's build some defenses near our borders."
+
+ ITA_ww1_defense_border:0 "국경 수비"
+ ITA_ww1_defense_border_desc:0 "World Tension is increasing and me wust make a final effort to get the country ready for the incomming War."
+
+ ITA_ww1_diaz:0 "아르만도 디아츠"
+
+ ITA_ww1_italian_expansionism:0 "이탈리아 팽창주의"
+ ITA_ww1_italian_expansionism_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_libyan_claims:0 "리비아 영유권 주장"
+ ITA_ww1_libyan_claims_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_italian_develop_tripoli:0 "트리폴리 개발"
+ ITA_ww1_italian_develop_cyrenaica:0 "Develop Cyrenaica"
+
+ ITA_ww1_italian_fortify_tripoli:0 "트리폴리 요새화"
+ ITA_ww1_italian_fortify_tripoli_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_italian_fortify_cyrenaica:0 "키레나이카 요새화"
+ ITA_ww1_italian_fortify_cyrenaica_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_italian_military_tripoli:0 "트리폴리 군대 증강"
+ ITA_ww1_italian_military_tripoli_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_italian_military_cyrenaica:0 "키레나이카 군대 증강" 
+ ITA_ww1_italian_military_cyrenaica_desc:0 "" #KAISER_ANONY 
+
+ ITA_ww1_italian_civil_tripoli:0 "트리폴리 민간공장"
+ ITA_ww1_italian_civil_tripoli_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_italian_civil_cyrenaica:0 "키레나이카 민간공장"
+ ITA_ww1_italian_civil_cyrenaica_desc:0 "" #KAISER_ANONY
+
+ ITA_ww1_italian_askari:0 "이탈리아 아스카리"
+ ITA_ww1_italian_askari_desc:0 "" #KAISER_ANONY
+
+
+
+ ITA_ww1_colonial_industry_desc:0 "We should focus our industry in Algier. Should tensions increase in Europe we will still have an industrial capacity outside the reach of enemy bombers."
+ ITA_ww1_military_factories_desc:0 "Our warmachine is falling behind in capacity. We need to focus on production of military equipment at home soil to make sure that our borders are constantly given new equipment."
+ ITA_ww1_colonial_military_factories:0 "식민지 군수 공장"
+ ITA_ww1_colonial_military_factories_desc:0 "Placing our military production outside Europe ensures that even if the enemy gains control of our airspace, we will maintain a constant flow of equipment to our frontline troops."
+
+ italian_libya_war:0 "이탈리아-오스만 전쟁 발발"
+ ITA_Lib_War_End_Victory:0 "이탈리아-오스만 전쟁 종전"
+ 
+ #--------------------------------------------------------------

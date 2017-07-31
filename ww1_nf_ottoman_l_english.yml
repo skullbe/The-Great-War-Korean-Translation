@@ -1,0 +1,463 @@
+﻿l_english:
+
+#--------------------------------------------------------------
+# [OTTOMAN EMPIRE] Army Effort
+#=========================================================================
+TUR_ww1_army_effort:0 "오스만 육군 개혁"
+TUR_ww1_army_effort_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_trenchwarfare:0 "참호전 중점"
+TUR_ww1_trenchwarfare_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_artillery_effort_1:0 "포병 개발"
+TUR_ww1_artillery_effort_1_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_artillery_effort_2:0 "포병 개발 II"
+
+TUR_ww1_artillery_effort_2_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_artillery_effort_3:0 "포병 개발 III"
+TUR_ww1_artillery_effort_3_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_artillery_effort_4:0 "포병 개발 IV"
+TUR_ww1_artillery_effort_4_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_special_forces:0 "특수부대"
+TUR_ww1_special_forces_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_army_motorization_focus:0 "기계화 중점"
+TUR_ww1_army_motorization_focus_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_doctrine_effort:0 "교리 개선"
+TUR_ww1_doctrine_effort_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_doctrine_effort_2:0 "교리 개선 II"
+TUR_ww1_doctrine_effort_2_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_doctrine_effort_3:0 "교리 개선 III"
+TUR_ww1_doctrine_effort_3_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_equipment_effort:0 "장비 개선"
+TUR_ww1_equipment_effort_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_equipment_effort_2:0 "장비 개선 II"
+TUR_ww1_equipment_effort_2_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_equipment_effort_3:0 "장비 개선 III"
+TUR_ww1_equipment_effort_3_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_equipment_effort_4:0 "장비 개선 IV"
+TUR_ww1_equipment_effort_4_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_armor_effort_1:0 "기갑 개발"
+TUR_ww1_armor_effort_1_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_armor_effort_2:0 "기갑 개발 II"
+TUR_ww1_armor_effort_2_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_gasmask_focus:0 "화학전 중점"
+TUR_ww1_gasmask_focus_desc:0 "" #KAISER_ANONY
+#--------------------------------------------------------------
+
+
+# [OTTOMAN EMPIRE] 항공 개발
+#=========================================================================
+TUR_ww1_fighter_focus:0 "전투기 중점"
+TUR_ww1_fighter_focus_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_bomber_focus:0 "폭격기 중점"
+TUR_ww1_bomber_focus_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_airship_focus:0 "비행선 중점"
+TUR_ww1_airship_focus_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_aviation_effort:0 "오스만 항공비행 중대"
+TUR_ww1_aviation_effort_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_aviation_effort_2:0 "항공 개발"
+TUR_ww1_aviation_effort_2_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_aviation_effort_3:0 "항공 개발 II"
+TUR_ww1_aviation_effort_3_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_aviation_effort_4:0 "항공 개발 III"
+TUR_ww1_aviation_effort_4_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_aviation_effort_5:0 "항공 개발 IV"
+TUR_ww1_aviation_effort_5_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_pilotformation_1:0 "비행사 편제"
+TUR_ww1_pilotformation_1_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_pilotformation_2:0 "비행사 편제 II"
+TUR_ww1_pilotformation_2_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_aircraftprod_1:0 "항공 생산"
+TUR_ww1_aircraftprod_1_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_aircraftprod_2:0 "항공 생산 II"
+TUR_ww1_aircraftprod_2_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_airbomb_1:0 "공군 폭격"
+TUR_ww1_airbomb_1_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_airbomb_2:0 "공군 폭격 II"
+TUR_ww1_airbomb_2_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_air_innovation:0 "공군 혁신"
+TUR_ww1_air_innovation_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_navalair:0 "뇌격기 개발"
+TUR_ww1_navalair_desc:0 "" #KAISER_ANONY
+
+#--------------------------------------------------------------
+
+
+# [OTTOMAN EMPIRE]
+ #=========================================================================
+TUR_ww1_industrial_effort:0 "산업 개발"
+TUR_ww1_industrial_effort_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_construction_effort:0 "건축 개발"
+TUR_ww1_construction_effort_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_construction_effort_2:0 "건축 개발 II"
+TUR_ww1_construction_effort_2_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_construction_effort_3:0 "건축 개발 III"
+TUR_ww1_construction_effort_3_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_production_effort:0 "병기 개발"
+TUR_ww1_production_effort_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_production_effort_2:0 "병기 개발 II"
+TUR_ww1_production_effort_2_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_production_effort_3:0 "병기 개발 III"
+TUR_ww1_production_effort_3_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_dockyard_effort_1:0 "조선소 확장"
+TUR_ww1_dockyard_effort_1_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_dockyard_effort_2:0 "조선소 확장 II"
+TUR_ww1_dockyard_effort_2_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_dockyard_effort_3:0 "조선소 확장 III"
+TUR_ww1_dockyard_effort_3_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_airfield_expansion_1:0 "공군기지 확장"
+TUR_ww1_airfield_expansion_1_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_airfield_expansion_2:0 "공군기지 확장 II"
+TUR_ww1_airfield_expansion_2_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_airfield_expansion_3:0 "공군기지 확장 III"
+TUR_ww1_airfield_expansion_3_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_infrastructure_effort:0 "기반시설 개발"
+TUR_ww1_infrastructure_effort_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_infrastructure_effort_2:0 "기반시설 개발 II"
+TUR_ww1_infrastructure_effort_2_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_infrastructure_effort_3:0 "기반시설 개발 III"
+TUR_ww1_infrastructure_effort_3_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_infrastructure_effort_4:0 "기반시설 개발 IV"
+TUR_ww1_infrastructure_effort_4_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_extra_tech_slot:0 "연구 슬롯 확장"
+TUR_ww1_extra_tech_slot_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_extra_tech_slot_2:0 "연구 슬롯 확장 II"
+TUR_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
+ #--------------------------------------------------------------
+
+
+# [OTTOMAN EMPIRE] Naval Effort
+#=========================================================================
+TUR_ww1_naval_effort:0 "오스만 함대 강화"
+TUR_ww1_naval_effort_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_newnavalcanons_1:0 "함포 개발"
+TUR_ww1_newnavalcanons_1_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_newnavalcanons_2:0 "함포 개발 II"
+TUR_ww1_newnavalcanons_2_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_newnavalcanons_3:0 "함포 개발 III"
+TUR_ww1_newnavalcanons_3_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_dreadnought_effort:0 "드레드노트 개발"
+TUR_ww1_dreadnought_effort_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_flexible_navy:0 "유연한 해군"
+TUR_ww1_flexible_navy_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_large_navy:0 "대양 해군"
+TUR_ww1_large_navy_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_navyreform:0 "해군 편제"
+TUR_ww1_navyreform_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_submarine_effort:0 "잠수함 개발"
+TUR_ww1_submarine_effort_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_cruiser_effort:0 "순양함 개발"
+TUR_ww1_cruiser_effort_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_destroyer_effort:0 "구축함 개발"
+TUR_ww1_destroyer_effort_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_capital_ships_effort:0 "주력함 개발"
+TUR_ww1_capital_ships_effort_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_carrier_focus:0 "항공모함 개발"
+TUR_ww1_carrier_focus_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_antisubmarine:0 "대잠전"
+TUR_ww1_antisubmarine_desc:0 "" #KAISER_ANONY
+
+#--------------------------------------------------------------
+
+
+# [OTTOMAN EMPIRE] 정치 주력
+#=========================================================================
+TUR_ww1_political_effort:0 "정치 주력"
+TUR_ww1_political_effort_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_ContestYoungTurksReforms:0 "젊은 튀르크인들의 개혁에 반대"
+TUR_ww1_ContestYoungTurksReforms_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_SupportYoungTurksReforms:0 "젊은 튀르크인들의 개혁을 지지"
+TUR_ww1_SupportYoungTurksReforms_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_AbolishConstitution:0 "헌법 폐지"
+TUR_ww1_AbolishConstitution_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_liberty_ethos_focus:0 "자유 정신"
+TUR_ww1_liberty_ethos_focus_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_abandon_claims:0 "영유권 주장 포기"
+TUR_ww1_abandon_claims_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_FreeLebanon:0 "레바논 해방"
+TUR_ww1_FreeLebanon_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_PanIslamism:0 "범이슬람주의"
+TUR_ww1_PanIslamism_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_WorldwideCaliphate:0 "전세계적인 칼리프"
+TUR_ww1_WorldwideCaliphate_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_militarism:0 "군국주의"
+TUR_ww1_militarism_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_indoctrination_focus:0 "사상 주입"
+TUR_ww1_indoctrination_focus_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_paramilitarism:0 "준군사주의"
+TUR_ww1_paramilitarism_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_military_youth:0 "유소년 군사조직"
+TUR_ww1_military_youth_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_centralizedpower:0 "관료제"
+TUR_ww1_centralizedpower_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_freespeech:0 "언론의 자유"
+TUR_ww1_freespeech_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_reorganization_act:0 "재편성 법"
+TUR_ww1_reorganization_act_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_limited_rearmament:0 "제한된 재무장"
+TUR_ww1_limited_rearmament_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_full_rearmament:0 "완전한 재무장"
+TUR_ww1_full_rearmament_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_unitedpeople:0 "애국적인 열정"
+TUR_ww1_unitedpeople_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_massive_effort:0 "국가총동원"
+TUR_ww1_massive_effort_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_fortify_city:0 "도시 요새화"
+TUR_ww1_fortify_city_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_fortify_coast:0 "해안 방어"
+TUR_ww1_fortify_coast_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_install_democracy:0 "자유 선거"
+TUR_ww1_install_democracy_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_oppression_minorities:0 "소수민족 억압"
+TUR_ww1_oppression_minorities_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_france_friend:0 "프랑스-오스만 협정"
+TUR_ww1_france_friend_desc:0 "" #KAISER_ANONY
+
+#--------------------------------------------------------------
+
+
+# [OTTOMAN EMPIRE] 외교 주력
+#=========================================================================
+
+TUR_ww1_diplomatic_effort:0 "외교 주력"
+TUR_ww1_diplomatic_effort_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_takeposition:0 "진영 선택"
+TUR_ww1_takeposition_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_supportgermany:0 "독일을 지원한다"
+TUR_ww1_supportgermany_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_supportfrance:0 "프랑스를 지원한다"
+TUR_ww1_supportfrance_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_supportaustria:0 "오-헝을 지원한다"
+TUR_ww1_supportaustria_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_supportrussia:0 "러시아를 지원한다"
+TUR_ww1_supportrussia_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_military_reserve:0 "군비 비축"
+TUR_ww1_military_reserve_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_embargo_germany:0 "독일 통상 금지"
+TUR_ww1_embargo_germany_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_embargo_france:0 "프랑스 통상 금지"
+TUR_ww1_embargo_france_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_BalkansPolitics:0 "발칸반도 정책"
+TUR_ww1_BalkansPolitics_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_ApeasementBalkans:0 "발칸반도 유화정책"
+TUR_ww1_ApeasementBalkans_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_RecognizeAlbania:0 "알바니아 주권 인정"
+TUR_ww1_RecognizeAlbania_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_ReleaseAlbania:0 "알바니아 해방"
+TUR_ww1_ReleaseAlbania_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_join_entente:0 "협상국 가입"
+TUR_ww1_join_entente_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_war_effort:0 "전쟁 주력"
+TUR_ww1_war_effort_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_AntiBulgaria:0 "반불가리아 정책"
+TUR_ww1_AntiBulgaria_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_anti_ita:0 "반이탈리아 정책"
+TUR_ww1_anti_ita_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_BalkanLeagueMenace:0 "발칸 동맹의 위협"
+TUR_ww1_BalkanLeagueMenace_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_SecondBalkanWarOpportunity:0 "2차 발칸 전쟁의 기회"
+TUR_ww1_SecondBalkanWarOpportunity_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_GreeceFriend:0 "그리스와의 친선"
+TUR_ww1_GreeceFriend_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_back_austria:0 "오-헝을 지원한다"
+TUR_ww1_back_austria_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_baghdad:0 "베를린-바그다드 철도"
+TUR_ww1_baghdad_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_assert_position_west:0 "유럽에 권리주장"
+TUR_ww1_assert_position_west_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_anti_uk:0 "반프랑스 정책"
+TUR_ww1_anti_uk_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_assert_position_east:0 "중동에 권리주장"
+TUR_ww1_assert_position_east_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_anti_ru:0 "반러시아 정책"
+TUR_ww1_anti_ru_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_anti_serb:0 "반세르비아 정책"
+TUR_ww1_anti_serb_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_bulgaria_puppet:0 "불가리아 괴뢰화"
+TUR_ww1_bulgaria_puppet_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_bulgaria_friend:0 "불가리아와 친선"
+TUR_ww1_bulgaria_friend_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_ready_country:0 "전쟁 준비"
+TUR_ww1_ready_country_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_khedivate_egypt:0 "이집트 국가주의자를 지원하다"
+TUR_ww1_khedivate_egypt_desc:0 ""
+
+TUR_ww1_develop_arab:0 "제국 개발"
+TUR_ww1_develop_arab_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_peace_arab_revolt:0 "반란군과 협상"
+TUR_ww1_peace_arab_revolt_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_free_hejaz:0 "헤자즈 해방"
+TUR_ww1_free_hejaz_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_free_yemen:0 "예멘과 아시르를 인정하다"
+TUR_ww1_free_yemen_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_war_hejaz:0 "헤자즈 반란군과 싸운다"
+TUR_ww1_war_hejaz_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_war_yemen:0 "예멘과 아시르의 반란군과 싸운다"
+TUR_ww1_war_yemen_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_support_libya:0 "리비아내 반란군 지원"
+TUR_ww1_support_libya_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_support_oman:0 "오만내 반란군 지원한다"
+TUR_ww1_support_oman_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_support_egypt:0 "이집트내 반란군 지원"
+TUR_ww1_support_egypt_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_fight_arab_revolt:0 "아랍 반란군들 제압"
+TUR_ww1_fight_arab_revolt_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_fight_saud:0 "알 사우디 집단 축출"
+TUR_ww1_fight_saud_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_friend_jabal:0 "라시드 가문과의 친선"
+TUR_ww1_friend_jabal_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_annex_jabal:0 "자발 샴마르 합병"
+TUR_ww1_annex_jabal_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_friend_afghan:0 "아프가니스탄과 친선"
+TUR_ww1_friend_afghan_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_anti_persia:0 "반페르시아 정책"
+TUR_ww1_anti_persia_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_friend_persia:0 "페르시아와의 친선"
+TUR_ww1_friend_persia_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_technology_sharing:0 "기술 공유"
+TUR_ww1_technology_sharing_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_anti_ger:0 "독일에 대한 불신"
+TUR_ww1_anti_ger_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_anti_auh:0 "오스트리아-오스만 경쟁 의식"
+TUR_ww1_anti_auh_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_EmbargoGermany:0 "독일 통상 금지"
+TUR_ww1_EmbargoGermany_desc:0 "" #KAISER_ANONY
+
+TUR_ww1_join_centralpowers:0 "동맹국 가입"
+TUR_ww1_join_centralpowers_desc:0 "" #KAISER_ANONY
+
+#--------------------------------------------------------------

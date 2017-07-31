@@ -1,0 +1,54 @@
+﻿l_english:
+
+#GENERICS
+
+HOI4TGW_Opinion_alliance_bonus_boost:0 "동맹"
+
+HOI4TGW_Opinion_give_weapons:0 "무기 밀매"		# Trade +50 (Traffic d'armes)
+
+HOI4TGW_Opinion_improved_diplomatic_relations:0 "개선된 외교 관계"		# Diplo +50
+HOI4TGW_Opinion_hostile_diplomatic_relations:0 "적대적인 외교 관계"		# Diplo -30
+
+HOI4TGW_Opinion_anti_fr_policy_malus:0 "프랑스 혐오자"
+HOI4TGW_Opinion_anti_ger_policy_malus:0 "독일 혐오자"
+HOI4TGW_Opinion_anti_ah_policy_malus:0 "오스트리아 혐오자"
+HOI4TGW_Opinion_anti_uk_policy_malus:0 "영국 혐오자"
+HOI4TGW_Opinion_anti_ru_policy_malus:0 "러시아 혐오자"
+HOI4TGW_Opinion_anti_serb_policy_malus:0 "세르비아 혐오자"
+HOI4TGW_Opinion_anti_ottoman_policy_malus:0 "오스만 혐오자"
+
+ # Balkans
+ HOI4TGW_Opinion_hostile_relations_post_balkan_war:0 "발칸 전쟁의 결과"
+
+
+#JAPAN
+HOI4TGW_Opinion_JAP_contest_russian_domination:0 "러시아 패권 경쟁"
+HOI4TGW_Opinion_JAP_celebrate_tsushima:0 "쓰시마 축복"
+HOI4TGW_Opinion_JAP_ambassador_siam:0 "태국으로의 일본인 특사"
+HOI4TGW_Opinion_JAP_china_13:0 "13번째 요구"
+HOI4TGW_Opinion_JAP_china_21:0 "21번째 요구"
+
+ HOI4TGW_Opinion_alliance_bonus:0 "친선"
+ HOI4TGW_Opinion_alliance_malus:0 "대립"
+
+#TRASH----------------------------------------------------------------------
+
+# Add +40
+HOI4TGW_Opinion_diplomats_bonus:0 "외교 관계 변경됨"
+
+# Substract -20
+HOI4TGW_Opinion_ger_ita_alliance_focus_malus:0 "외교 관계 변경됨"
+HOI4TGW_Opinion_ger_auh_alliance_focus_malus:0 "외교 관계 변경됨"
+
+
+HOI4TGW_Opinion_ger_ita_advisor_bonus:0 "고문관" 파견"
+HOI4TGW_Opinion_ger_auh_advisor_bonus:0 "고문관 파견"
+
+HOI4TGW_Opinion_fra_diplomats_bonus:0 "외교곽 파견"
+
+HOI4TGW_Opinion_influence_faction:0 "세력 영향"
+
+HOI4TGW_Opinion_diplomats_malus:0 "외교 벌금"
+
+# Remove -100
+HOI4TGW_Opinion_Russia_Leave_Entente:0 "러시아 제국 협상국 탈퇴"

@@ -1,0 +1,28 @@
+﻿l_english:
+ light_field_gun_equipment:0 "야포"
+ light_howitzer_equipment:0 "곡사포"
+ heavy_field_gun_equipment:0 "즁포"
+ heavy_howitzer_equipment:0 "중포"
+ siege_gun_equipment:0 "공성포"
+ machinegun_equipment:0 "기관총"
+ armored_car_equipment:0 "전차"
+ scout:0 "정찰기"
+ airship:0 "비행선"
+ heavy_artillery:0 "중포"
+ siege_artillery:0 "공성포"
+ heavy_artillery_brigade:0 "중포"
+ armored_car:0 "장갑차"
+
+ airship_bomber:0 "비행선"
+ GER_airship_bomber:0 "체펠린"
+ airship_bomber_equipment:0 "비행선"
+ airship_bomber_desc:0 "비행선"
+ airship_bomber_equipment:0 "비행선"
+ airship_bomber_desc:0 "비행선"
+
+ recon_plane_equipment:0 "정찰기"
+ recon_plane_desc:0 "정찰기"
+ recon_plane_equipment:0 "정찰기"
+ recon_plane:0 "정찰기"
+ recon_plane_desc:0 "정찰기"
+ 

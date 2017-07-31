@@ -1,0 +1,520 @@
+﻿l_english:
+
+ #--------------------------------------------------------------
+ # [RUSSIAN EMPIRE] Army Effort
+ #=========================================================================
+ RUS_ww1_army_effort:0 "러시아 황실 군대 재조직"
+RUS_ww1_army_effort_desc:0 "" #KAISER_ANONY
+
+RUS_ww1_trenchwarfare:0 "참호전 중점"
+RUS_ww1_trenchwarfare_desc:0 "" #KAISER_ANONY
+
+RUS_ww1_artillery_effort_1:0 "포병 개발"
+RUS_ww1_artillery_effort_1_desc:0 "" #KAISER_ANONY
+
+RUS_ww1_artillery_effort_2:0 "포병 개발 II"
+
+RUS_ww1_artillery_effort_2_desc:0 "" #KAISER_ANONY
+
+RUS_ww1_artillery_effort_3:0 "포병 개발 III"
+RUS_ww1_artillery_effort_3_desc:0 "" #KAISER_ANONY
+
+RUS_ww1_artillery_effort_4:0 "포병 개발 IV"
+RUS_ww1_artillery_effort_4_desc:0 "" #KAISER_ANONY
+
+RUS_ww1_special_forces:0 "특수부대"
+RUS_ww1_special_forces_desc:0 "" #KAISER_ANONY
+
+RUS_ww1_army_motorization_focus:0 "기계화 중점"
+RUS_ww1_army_motorization_focus_desc:0 "" #KAISER_ANONY
+
+RUS_ww1_doctrine_effort:0 "교리 개선"
+RUS_ww1_doctrine_effort_desc:0 "" #KAISER_ANONY
+
+RUS_ww1_doctrine_effort_2:0 "교리 개선 II"
+RUS_ww1_doctrine_effort_2_desc:0 "" #KAISER_ANONY
+
+RUS_ww1_doctrine_effort_3:0 "교리 개선 III"
+RUS_ww1_doctrine_effort_3_desc:0 "" #KAISER_ANONY
+
+RUS_ww1_equipment_effort:0 "장비 개선"
+RUS_ww1_equipment_effort_desc:0 "" #KAISER_ANONY
+
+RUS_ww1_equipment_effort_2:0 "장비 개선 II"
+RUS_ww1_equipment_effort_2_desc:0 "" #KAISER_ANONY
+
+RUS_ww1_equipment_effort_3:0 "장비 개선 III"
+RUS_ww1_equipment_effort_3_desc:0 "" #KAISER_ANONY
+
+RUS_ww1_equipment_effort_4:0 "장비 개선 IV"
+RUS_ww1_equipment_effort_4_desc:0 "" #KAISER_ANONY
+
+RUS_ww1_armor_effort_1:0 "기갑 개발"
+RUS_ww1_armor_effort_1_desc:0 "" #KAISER_ANONY
+
+RUS_ww1_armor_effort_2:0 "기갑 개발 II"
+RUS_ww1_armor_effort_2_desc:0 "" #KAISER_ANONY
+
+RUS_ww1_gasmask_focus:0 "화학전 중점"
+RUS_ww1_gasmask_focus_desc:0 "" #KAISER_ANONY
+ #--------------------------------------------------------------
+
+
+ # [RUSSIAN EMPIRE] 항공 개발
+ #=========================================================================
+ RUS_ww1_aviation_effort:0 "러시아 황실 공군 편성"
+  RUS_ww1_aviation_effort_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_sikorsky_airplane_research:0 "시코르스키의 항공기 연구"
+ RUS_ww1_sikorsky_airplane_research_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_rbvz_production:0 "러시아-발트 운송 작업"
+ RUS_ww1_rbvz_production_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_fighter_focus:0 "전투기 중점"
+ RUS_ww1_fighter_focus_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_bomber_focus:0 "폭격기 중점"
+ RUS_ww1_bomber_focus_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_airship_focus:0 "비행선 중점"
+ RUS_ww1_airship_focus_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_aviation_effort_2:0 "항공 개발"
+ RUS_ww1_aviation_effort_2_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_aviation_effort_4:0 "항공 개발 II"
+ RUS_ww1_aviation_effort_4_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_pilotformation_1:0 "비행사 편제"
+ RUS_ww1_pilotformation_1_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_pilotformation_2:0 "비행사 편제 II"
+ RUS_ww1_pilotformation_2_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_aircraftprod_1:0 "항공 생산"
+ RUS_ww1_aircraftprod_1_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_aircraftprod_2:0 "항공 생산 II"
+ RUS_ww1_aircraftprod_2_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_airbomb_1:0 "공군 폭격"
+ RUS_ww1_airbomb_1_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_airbomb_2:0 "공군 폭격 II"
+ RUS_ww1_airbomb_2_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_air_innovation:0 "공군 혁신"
+ RUS_ww1_air_innovation_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_navalair:0 "뇌격기 개발"
+ RUS_ww1_navalair_desc:0 "" #KAISER_ANONY
+
+ #--------------------------------------------------------------
+
+
+ # [RUSSIAN EMPIRE] 산업 개발
+ #=========================================================================
+ RUS_ww1_industrial_effort:0 "산업 개발"
+ RUS_ww1_industrial_effort_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_construction_effort:0 "건축 개발"
+ RUS_ww1_construction_effort_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_construction_effort_2:0 "건축 개발 II"
+ RUS_ww1_construction_effort_2_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_construction_effort_3:0 "건축 개발 III"
+ RUS_ww1_construction_effort_3_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_production_effort:0 "병기 개발"
+ RUS_ww1_production_effort_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_production_effort_2:0 "병기 개발 II"
+ RUS_ww1_production_effort_2_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_production_effort_3:0 "병기 개발 III"
+ RUS_ww1_production_effort_3_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_dockyard_effort_1:0 "조선소 확장"
+ RUS_ww1_dockyard_effort_1_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_dockyard_effort_2:0 "조선소 확장 II"
+ RUS_ww1_dockyard_effort_2_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_dockyard_effort_3:0 "조선소 확장 III"
+ RUS_ww1_dockyard_effort_3_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_airfield_expansion_1:0 "가치나 군사 기지를 공군기지로"
+ RUS_ww1_airfield_expansion_1_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_airfield_expansion_2:0 "공군기지 확장"
+ RUS_ww1_airfield_expansion_2_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_airfield_expansion_3:0 "공군기지 확장 II"
+ RUS_ww1_airfield_expansion_3_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_infrastructure_effort:0 "기반시설 개발"
+ RUS_ww1_infrastructure_effort_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_infrastructure_effort_2:0 "기반시설 개발 II"
+ RUS_ww1_infrastructure_effort_2_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_infrastructure_effort_3:0 "기반시설 개발 III"
+ RUS_ww1_infrastructure_effort_3_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_infrastructure_effort_4:0 "기반시설 개발 IV"
+ RUS_ww1_infrastructure_effort_4_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_extra_tech_slot:0 "연구 슬롯 확장"
+ RUS_ww1_extra_tech_slot_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_expand_the_academy_of_sciences:0 "과학 아카데미 확장"
+ RUS_ww1_expand_the_academy_of_sciences_desc:0 "" #KAISER_ANONY
+
+ #--------------------------------------------------------------
+
+
+ # [RUSSIAN EMPIRE] Naval Effort
+ #=========================================================================
+ RUS_ww1_naval_effort:0 "러시아 황실 해군 강화"
+  RUS_ww1_naval_effort_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_newnavalcanons_1:0 "함포 개발"
+ RUS_ww1_newnavalcanons_1_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_european_seas_focus:0 "유럽 중점"
+ RUS_ww1_european_seas_focus_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_asian_seas_focus:0 "아시아 중점"
+ RUS_ww1_asian_seas_focus_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_newnavalcanons_2:0 "함포 개발"
+ RUS_ww1_newnavalcanons_2_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_newnavalcanons_3:0 "함포 개발 II"
+ RUS_ww1_newnavalcanons_3_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_dreadnought_effort:0 "드레드노트 개발"
+ RUS_ww1_dreadnought_effort_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_flexible_navy:0 "유연한 해군"
+ RUS_ww1_flexible_navy_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_large_navy:0 "대양 해군"
+ RUS_ww1_large_navy_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_navyreform:0 "해군 편제"
+ RUS_ww1_navyreform_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_submarine_effort:0 "잠수함 개발"
+ RUS_ww1_submarine_effort_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_cruiser_effort:0 "순양함 개발"
+ RUS_ww1_cruiser_effort_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_destroyer_effort:0 "구축함 개발"
+ RUS_ww1_destroyer_effort_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_capital_ships_effort:0 "주력함 개발"
+ RUS_ww1_capital_ships_effort_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_carrier_focus:0 "항공모함 개발"
+ RUS_ww1_carrier_focus_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_antisubmarine:0 "대잠전"
+ RUS_ww1_antisubmarine_desc:0 "" #KAISER_ANONY
+
+#--------------------------------------------------------------
+
+
+# [RUSSIAN EMPIRE] 정치 주력
+#=========================================================================
+ RUS_ww1_political_effort:0 "정치 주력"
+ RUS_ww1_political_effort_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_reject_reforms:0 "개혁 반대"
+ RUS_ww1_reject_reforms_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_adopt_reforms:0 "개혁 수용"
+ RUS_ww1_adopt_reforms_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_condemn_marxist_ideas:0 "마르크스레닌주의 비판"
+ RUS_ww1_condemn_marxist_ideas_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_crush_strikes:0 "반동분자 처단"
+ RUS_ww1_crush_strikes_desc:0 "" #KAISER_ANONY
+
+ RUS_strengthen_the_constitution:0 "헌법을 강화하자"
+ RUS_strengthen_the_constitution_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_arrest_opposition_leaders:0 "반정부인사 체포"
+ RUS_ww1_arrest_opposition_leaders_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_dissolve_imperial_duma:0 "제국 의회 해산"
+ RUS_ww1_dissolve_imperial_duma_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_reinforce_tsar_authority:0 "차르의 권한 강화"
+ RUS_ww1_reinforce_tsar_authority_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_purge_imperial_guard:0 "황실 근위대 숙청"
+ RUS_ww1_purge_imperial_guard_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_discuss_tsar_authority:0 "차르의 권한에 대해 논의"
+ RUS_ww1_discuss_tsar_authority_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_parliamentary_immunity:0 "의회 면역"
+ RUS_ww1_parliamentary_immunity_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_fifth_duma:0 "제 5제국의회 설립"
+ RUS_ww1_fifth_duma_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_legitimate_power:0 "정당한 권력 행사"
+ RUS_ww1_legitimate_power_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_adopt_marxist_ideas:0 "마르크스레닌주의 수용"
+ RUS_ww1_adopt_marxist_ideas_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_legitimate_bolsheviks:0 "볼셰비키와 권력 통합"
+ RUS_ww1_legitimate_bolsheviks_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_disarm_the_cossacks:0 "반란진압군 무장해제"
+ RUS_ww1_disarm_the_cossacks_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_right_of_the_people:0 "인권 선언"
+ RUS_ww1_right_of_the_people_desc:0 "" #KAISER_ANONY
+
+ RUS_export_the_revolution:0 "혁명 전파"
+ RUS_export_the_revolution_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_sovereignist_ethos:0 "주권보호 성향"
+ RUS_ww1_sovereignist_ethos_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_support_kaiser:0 "제국의 권한 강화"
+ RUS_ww1_support_kaiser_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_contest_kaiser:0 "제국의 권한에 이의제기"
+ RUS_ww1_contest_kaiser_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_internationalism_focus:0 "국제주의 중점"
+ RUS_ww1_internationalism_focus_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_militarism:0 "군국주의"
+ RUS_ww1_militarism_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_indoctrination_focus:0 "사상 주입"
+ RUS_ww1_indoctrination_focus_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_political_commissars:0 "정치 장교"
+ RUS_ww1_political_commissars_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_paramilitarism:0 "준군사주의"
+ RUS_ww1_paramilitarism_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_political_correctness:0 "정치적 올바름"
+ RUS_ww1_political_correctness_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_military_youth:0 "유소년 군사조직"
+ RUS_ww1_military_youth_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_student_movement_focus:0 "학생 운동"
+ RUS_ww1_student_movement_focus_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_monarchy:0 "권위주의 중점"
+ RUS_ww1_monarchy_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_democracy:0 "민주주의 중점"
+ RUS_ww1_democracy_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_centralizedpower:0 "관료제"
+ RUS_ww1_centralizedpower_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_freespeech:0 "언론의 자유"
+ RUS_ww1_freespeech_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_reorganization_act:0 "재편성 법"
+ RUS_ww1_reorganization_act_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_leave_central_power:0 "동맹국 탈퇴"
+ RUS_ww1_leave_central_power_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_limited_rearmament:0 "제한적인 재무장"
+ RUS_ww1_limited_rearmament_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_full_rearmament:0 "완전한 재무장"
+ RUS_ww1_full_rearmament_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_unitedpeople:0 "왕국을 통합시키자"
+ RUS_ww1_unitedpeople_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_massive_effort:0 "국가총동원"
+ RUS_ww1_massive_effort_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_fortify_city:0 "도시 요새화"
+ RUS_ww1_fortify_city_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_fortify_coast:0 "해안 방어"
+ RUS_ww1_fortify_coast_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_leave_central_power:0 "동맹국 탈퇴"
+ RUS_ww1_leave_central_power_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_install_communism:0 "프롤레타리아 혁명"
+ RUS_ww1_install_communism_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_install_democracy:0 "자유 선거"
+ RUS_ww1_install_democracy_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_oppression_minorities:0 "소수민족 억압"
+ RUS_ww1_oppression_minorities_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_make_concessions:0 "화해하자"
+ RUS_ww1_make_concessions_desc:0 "" #KAISER_ANONY
+
+
+ #--------------------------------------------------------------
+
+ # [RUSSIAN EMPIRE] 외교 주력
+ #=========================================================================
+
+ RUS_ww1_diplomatic_effort:0 "외교 주력"
+  RUS_ww1_diplomatic_effort_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_assert_position_east:0 "동유럽에 권리주장"
+ RUS_ww1_assert_position_east_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_BalkansPolitics:0 "발칸반도 정책"
+ RUS_ww1_BalkansPolitics_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_ApeasementBalkans:0 "발칸반도 유화정책"
+ RUS_ww1_ApeasementBalkans_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_rom:0 "루마니아와 화해"
+ RUS_ww1_rom_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_oirganization_realm:0 "왕국 통합"
+ RUS_ww1_oirganization_realm_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_fortify_russian_borders:0 "러시아 국경 요새화"
+ RUS_ww1_fortify_russian_borders_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_airport_russian_borders:0 "러시아국경 근처에 공군기지 건설"
+ RUS_ww1_airport_russian_borders_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_fortify_italian_borders:0 "이탈리아 국경 요새화"
+ RUS_ww1_fortify_italian_borders_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_fortify_bosnia_borders:0 "발칸반도 국경 요새화"
+ RUS_ww1_fortify_bosnia_borders_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_fortify_coast_dalmatia:0 "달마시안식 해안 요새화"
+ RUS_ww1_fortify_coast_dalmatia_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_ready_country:0 "프로파간다 채용"
+ RUS_ww1_ready_country_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_military_harmonization:0 "군사 화합"
+ RUS_ww1_military_harmonization_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_balkans_policy:0 "발칸반도 정책"
+ RUS_ww1_balkans_policy_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_balkans_policy_intervene:0 "1차 발칸 전쟁 개입"
+ RUS_ww1_balkans_policy_intervene_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_pro_fra:0 "러불 동맹 축하"
+ RUS_ww1_pro_fra_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_friend_with_auh:0 "2차 러시아-오스트리아 협정"
+ RUS_ww1_friend_with_auh_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_support_serbia_weapons:0 "세르비아를 지원하다"
+ RUS_ww1_support_serbia_weapons_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_restore_russia_glory:0 "러시아 과거의 영광을 되찾자"
+ RUS_ww1_restore_russia_glory_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_avenge_fall_constantinople:0 "1453년의 복수"
+ RUS_ww1_avenge_fall_constantinople_desc:0 "콘스탄티노플의 함락은 1453년 5월 29일 오스만 제국 군대가 비잔틴 제국의 수도를 점령한 것을 말한다. 오스만 군은 오스만 제국의 7번째 술탄 메흐므드의 지휘됬고, 패전한 비잔티움 군대는 비잔티움 제국의 황제 콘스탄티누스 11세였다.  "
+
+ RUS_wilhlems_deal:0 "빌헬름 2세와 거래제안"
+ RUS_wilhlems_deal_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_invest_west:0 "서부지역 투자"
+ RUS_ww1_invest_west_desc:0 "" #KAISER_ANONY
+
+ RUS_around_manchuria:0 "만주지역 주변 투자"
+ RUS_around_manchuria_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_friend_with_romania:0 "루마니아와의 관계 개선"
+ RUS_ww1_friend_with_romania_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_EmbargoUK:0 "영국 통상 금지"
+ RUS_ww1_EmbargoUK_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_JoinCentralPowers:0 "등에 칼을 꽂다"
+ RUS_ww1_JoinCentralPowers_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_reinforce_western_forts:0 "서부 국경 강화"
+ RUS_ww1_reinforce_western_forts_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_defy_germany:0 "독일에 반항하다"
+ RUS_ww1_defy_germany_desc:0 "" #KAISER_ANONY
+
+ RUS_annex_northern_persia:0 "북페르시아 점령"
+ RUS_annex_northern_persia_desc:0 "" #KAISER_ANONY
+
+ RUS_russify_finland:0 "러시아령 핀란드"
+ RUS_russify_finland_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_leave_entente:0 "협상국 탈퇴"
+ RUS_ww1_leave_entente_desc:0 "" #KAISER_ANONY
+
+ RUS_guarantee_serbia:0 "세르비아 독립보장"
+ RUS_guarantee_serbia_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_add_fuel_to_the_fire:0 "화약고에 불을 지피자"
+ RUS_ww1_add_fuel_to_the_fire_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_support_serbia:0 "동방정교회 형제"
+ RUS_ww1_support_serbia_desc:0 "" #KAISER_ANONY
+
+ RUS_fight_sweden_gotland:0 "고틀란드 영유권 주장"
+ RUS_fight_sweden_gotland_desc:0 "" #KAISER_ANONY
+
+ RUS_european_focus:0 "서유럽 중점"
+ RUS_european_focus_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_scandinavia_focus:0 "스칸디나비아 정책"
+ RUS_ww1_scandinavia_focus_desc:0 "" #KAISER_ANONY
+
+ RUS_asian_focus:0 "아시아에 러시아의 권리주장"
+ RUS_asian_focus_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_treaty_portsmouth:0 "포츠머스 강화조약 철회"
+ RUS_ww1_treaty_portsmouth_desc:0 "" #KAISER_ANONY
+
+ RUS_annex_manchurian_sphere:0 "만주지역 점령"
+ RUS_annex_manchurian_sphere_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_friend_with_jap:0 "편의를 위한 동맹"
+ RUS_ww1_friend_with_jap_desc:0 "" #KAISER_ANONY
+
+ RUS_reinforce_vladivostok:0 "블라디보스토크 강화"
+ RUS_reinforce_vladivostok_desc:0 "" #KAISER_ANONY
+
+ RUS_mongolian_protectorate:0 "몽골 보호"
+ RUS_mongolian_protectorate_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_Xinhai_Revolution_Opportunity:0 "신해혁명의 기회"
+ RUS_ww1_Xinhai_Revolution_Opportunity_desc:0 "" #KAISER_ANONY
+
+ RUS_ww1_polish_corps:0 "러시아 산하 폴란드 군단"
+ RUS_ww1_polish_corps_desc:0 "" #KAISER_ANONY
+
+
+
+
+
+ kis_brestlitovsk:0 "브레스트-리토프스크 조약"
+ kis_tsarnicholasabdicated:0 "차르 퇴위"
