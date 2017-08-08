@@ -63,9 +63,9 @@
  ww1_super_heavy_tank_equipment:0 "초기 초중전차"
 
 
- ww1_light_tank_equipment_1_desc:0 "Heavier tanks are all well and good, but a lighter, more mobile tank that could keep up with the Cavalry is an interesting proposition indeed, especially if it utilizes a rotating turret. Though some argue that a lesser-armored lighter tank will be less effective, the potential of the role cannot be ignored."
- ww1_light_tank_equipment_b_desc:0 "While our new Light Tanks have exceeded expectations so far, they are only armed with Machine Guns, making them ineffective against enemy fortifications or vehicles. Replacing the MG with a cannon would hurt the Light Tank's anti-Infantry potential, unless we found somewhere else to put it, but make it a more effective vehicle-fighting platform."
- ww1_light_tank_equipment_2_desc:0 "If we mount a Machine Gun directly next to a cannon in a Light Tank in what our Engineers call a coaxial mounting, we can have the best of both worlds- a light tank able to fight enemy vehicles and still effective against enemy infantry. Perhaps one day this shall be the world standard?"
+ ww1_light_tank_equipment_1_desc:0 "초중전차는 모두 좋으며 훌륭하지만, 기병대를 따라갈 수 있는 더 가볍고 기동성이 좋은 경전차는 회전하는 포탑을 사용하는 경우 특히 흥미로운 제안입니다. 효과적이기 때문에 역할의 잠재력은 무시할 수 없습니다."
+ ww1_light_tank_equipment_b_desc:0 "새로운 경전차가 지금까지 기대를 넘어선 반면에, 기관총으로 무장한 적군의 요새나 차량에 대해서는 비효과적입니다. 그러나 기관총을 주포로 교체하면 경전차의 대보병 능력이 떨어지지만 요새와 차량에는 더 효과적이게 됩니다."
+ ww1_light_tank_equipment_2_desc:0 "기술자가 동축 기관총이라고 부르는 기관총을 경전차의 주포 옆에 장착하면 적 차량과 적 보병에게 효과가 있는 경전차를 가질 수 있다고 합니다. 아마도 언젠가는 세계 기준이 되겠죠."
 
  ww1_heavy_tank_equipment_1_desc:0 "The development of a Tank Prototype has brought the reality of an armored, gun-carrying, and treaded vehicle nearly to reality. Improvements on the design, most importantly making it viable for mass-production and able to travel over trenches consistently, can give us a battle-ready vehicle to break through enemy lines."
  ww1_heavy_tank_equipment_2_desc:0 "Improvements on the Heavy Tank design are necessary if the vehicle is to stay useful in the changing combat situation. Universal-type treads and more seperated engines are required to ensure that these landships can continue fighting until the end of their battles, and improvements to gun positioning can give us a further edge."
