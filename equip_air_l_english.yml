@@ -37,43 +37,43 @@
  
 #HOI4 TGW
  ww1_fighter_equipment_1:0 "스카우트"
- ww1_fighter_equipment_1_desc:0 "The term Scout, as a description of a class of military aircraft, came into use shortly before the First World War, and initially referred to a fast (for its time), light (usually single-seated) unarmed reconnaissance aircraft."
+ ww1_fighter_equipment_1_desc:0 "군용 비행기를 지칭하는 스카우트라는 단어는 1차 세계대전 바로 직전부터 사용되기 시작하였고, 초기에는 빠르고 가벼운 무장하지 않은 정찰용의 비행기를 나타내는 말이었습니다."
 
  ww1_fighter_equipment_1b:0 "초기 전투기 I"
- ww1_fighter_equipment_1b_desc:0 "World War I was the first major conflict involving the large-use of aircraft."
+ ww1_fighter_equipment_1b_desc:0 "1차 세계대전은 수많은 비행기가 전투에 사용된 첫 번째 전쟁입니다."
 
  ww1_fighter_equipment_2:0 "초기 전투기 II"
- ww1_fighter_equipment_2_desc:0 "World War I was the first major conflict involving the large-use of aircraft."
+ ww1_fighter_equipment_2_desc:0 "1차 세계대전은 수많은 비행기가 전투에 사용된 첫 번째 전쟁입니다."
 
  ww1_fighter_equipment_2b:0 "삼엽기"
- ww1_fighter_equipment_2b_desc:0 "A triplane is a fixed-wing aircraft equipped with three vertically stacked wing planes. Tailplanes and canard foreplanes are not normally included in this count, although they may be occasionally."
+ ww1_fighter_equipment_2b_desc:0 "삼엽기는 3개의 날개가 수직으로 쌓아져 고정되어 있는 비행기입니다. 꼬리날개와 전방의 보조 날개는 보통 여기에 포함되지 않습니다."
 
  ww1_fighter_equipment_3:0 "초기 전투기 III"
- ww1_fighter_equipment_3_desc:0 "World War I was the first major conflict involving the large-use of aircraft."
+ ww1_fighter_equipment_3_desc:0 "1차 세계대전은 수많은 비행기가 전투에 사용된 첫 번째 전쟁입니다."
 
  ww1_fighter_equipment_4:0 "초기 전투기 IV"
- ww1_fighter_equipment_4_desc:0 "World War I was the first major conflict involving the large-use of aircraft."
+ ww1_fighter_equipment_4_desc:0 "1차 세계대전은 수많은 비행기가 전투에 사용된 첫 번째 전쟁입니다."
 
  ww1_seaplane_equipment_1:0 "수상 비행기 I"
- ww1_seaplane_equipment_1_desc:0 "The word "seaplane" is used to describe two types of air/water vehicles: the floatplane and the flying boat."
+ ww1_seaplane_equipment_1_desc:0 "‘수상 비행기’라는 말은 이수, 활수가 두 가지가 가능한 탈 것을 나타내는 말입니다."
 
  ww1_seaplane_equipment_2:0 "수상 비행기 II"
- ww1_seaplane_equipment_2_desc:0 "The word "seaplane" is used to describe two types of air/water vehicles: the floatplane and the flying boat."
+ ww1_seaplane_equipment_2_desc:0 "‘수상 비행기’라는 말은 이수, 활수가 두 가지가 가능한 탈 것을 나타내는 말입니다."
 
 
 
- TUR_ww1_fighter_equipment_2:0 "Halberstadt D.II"
- TUR_ww1_fighter_equipment_2_short:0 "Halberstadt D.II"
+ TUR_ww1_fighter_equipment_2:0 "할버슈타트 D.II"
+ TUR_ww1_fighter_equipment_2_short:0 "할버슈타트 D.II"
 
 
 
- AUH_ww1_fighter_equipment_1:0 "Hansa-Brandenburg B.I"
+ AUH_ww1_fighter_equipment_1:0 "한사-브란덴부르크 B.I"
  AUH_ww1_fighter_equipment_1_short:0 "HB B.I"
- AUH_ww1_fighter_equipment_1_desc:0 "The Hansa-Brandenburg B.I was an unarmed military trainer and reconnaissance biplane of World War I flown by the Austro-Hungarian Air Service."
+ AUH_ww1_fighter_equipment_1_desc:0 "한사-브란덴부르크 B.I 는 1차 세계대전에 Austro-Hungarian Air Service 사에서 제작한 비무장 군용 훈련기이자 정찰용 복엽기입니다."
 
- AUH_ww1_fighter_equipment_1b:0 "Hansa-Brandenburg C.I"
+ AUH_ww1_fighter_equipment_1b:0 "한사-브란덴부르크 C.I"
  AUH_ww1_fighter_equipment_1b_short:0 "HB C.I"
- AUH_ww1_fighter_equipment_1b_desc:0 "The Hansa-Brandenburg C.I, also known as Type LDD, was a 2-seater armed single-engine reconnaissance biplane designed by Ernst Heinkel, who worked at that time for the parent company in Germany. The C.I had similarities with the earlier B.I."
+ AUH_ww1_fighter_equipment_1b_desc:0 "LDD타입 으로도 알려져있는 한사-브란덴부르크 C.I 은 당시 독일의 모회사를 위해서 일한 Ernst Heinkel사에서 제작한 무장 복좌 단발 엔진 정찰 복엽기입니다. C.I은 전작인 B.I과 비슷합니다."
 
  AUH_ww1_fighter_equipment_2:0 "Aviatik (Berg) D.I"
  AUH_ww1_fighter_equipment_2_short:0 "Aviatik D.I"
