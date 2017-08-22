@@ -52,3 +52,7 @@ HOI4TGW_Opinion_diplomats_malus:0 "외교 벌금"
 
 # Remove -100
 HOI4TGW_Opinion_Russia_Leave_Entente:0 "러시아 제국 협상국 탈퇴"
+
+benilux_friendship:0 "베네룩스 친선관계"
+entente_friendship:0 "협상국 친선관계"
+germany_friendship:0 "독일 친선관계"

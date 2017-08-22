@@ -385,14 +385,14 @@
  ww1_hejaz.10.d:0 "더 많은 호송원이 우리의 반란을 돕기 위해 영국으로부터 도착하고 있다."
  ww1_hejaz.10.t:0 "영국으로 부터의 지원물품"
  ww1_hejaz.2.a:0 "메카의 샤리프가 우리의 대의에 동참하다"
- ww1_hejaz.2.d:0 "헨리 맥마흔은 후세인 빈 알리에게 잠재적으로 이집트를 포함하여 아라비아 반도에서부터 이라크와 레반트의 북쪽 국경까지 대규모의 아라비아 제국을 약속했다. 이것은 우리 편으로 그를 데려 간다는 위대한 약속이며, 가장 좋은 부분은 우리가 그를 배반하면 아무 것도 잃지 않는다는 것입니다!"
+ ww1_hejaz.2.d:0 "헨리 맥마흔은 후세인 빈 알리에게 잠재적으로 이집트를 포함하여 아라비아 반도에서부터 이라크와 레반트의 북쪽 국경까지 대규모의 아라비아 제국을 약속했다. 이것은 우리 편으로 그를 데려 간다는 위대한 약속이며, 가장 좋은 부분은 우리가 그를 배반하면 아무 것도 잃지 않는다는 것입니다!" 
  ww1_hejaz.2.t:0 "위대한 아랍 제국을 위한 약속"
- ww1_hejaz.3.a:0 "Send supplies!"
+ ww1_hejaz.3.a:0 "지원품을 보내라!"
  ww1_hejaz.3.d:0 "The Arab revolters are doing well. Thanks to our coordinated efforts, a land route is opened and allows us to send them supplies."
- ww1_hejaz.3.t:0 "Send assistance to Hedjaz"
- ww1_hejaz.4.a:0 "Send more supplies!"
+ ww1_hejaz.3.t:0 "헤자즈에 새로운 조언가 파견"
+ ww1_hejaz.4.a:0 "더 많은 지원품을 보내라!"
  ww1_hejaz.4.d:0 "The revolt is still going strong. Thanks to our coordinated efforts, a land route is opened and allows us to send them supplies."
- ww1_hejaz.4.t:0 "Renewed assistance to Hedjaz"
+ ww1_hejaz.4.t:0 "헤자즈에 파견된 새로운 조언가"
  ww1_hejaz.5.a:0 "알겠다"
  ww1_hejaz.5.d:0 "The British have written to our state, acknowledging the tyranny of our Turkish overlords. They seem supportive of Hedjazi independence. Could this be the start of a beautiful friendship?"
  ww1_hejaz.5.t:0 "Letters with Henry MacMahon"
@@ -1054,7 +1054,7 @@
 
  ww1_russia.4.t:0 "니콜라스 황제가 퇴위하다!"
  ww1_russia.4.d:0 "Demonstrations have forced the poor Tsar into official abdication. Though the Tsar has named Grand Duke Michael as his successor, the Duke has declined this offer.\nthe appointment of a weak Provisional Government, which shared power with the Petrograd Soviet socialists, led to confusion and chaos both at the front and at home. The army became increasingly ineffective."
- ww1_russia.4.a:0 "지금 무슨 일이 벌어지고 있는거지?"
+ ww1_russia.4.a:0 "지금 무슨 일이 일어난거야? (러시아로 플레이)"
 
  ww1_russia.5.t:0 "8월 혁명이 제압됬습니다"
  ww1_russia.5.d:0 "Thar Nikolai II was forced into official abdication. With the October Revolution crushed, Tsarists have regained control on the Russian Empire and are now organizing the transition to bring back the rightful Tsar Nikolai II in power."
@@ -1083,6 +1083,9 @@
  ww1_russia.20.t:0 "적백내전"
  ww1_russia.20.d:0 "The Russian Civil War, which broke out shortly after the revolution, brought death and suffering to millions of people. The war was fought mainly between the Red Army, consisting of the uprising majority led by the Bolshevik minority, and the Whites — army officers and cossacks, the bourgeoisie, and political groups ranging from the far Right to the Socialist Revolutionaries who opposed the drastic restructuring championed by the Bolsheviks. The Whites had backing from nations such as Great Britain, France, USA and Japan, while the Reds sported internal, domestic support which proved to be much more effective."
  ww1_russia.20.a:0 "백군 VS 적군"
+ 
+ ww1_russia.21.t:0 "소일 기본 협정"
+ ww1_russia.21.d:0 "Today started negotiations between Soviets and Japan. After long war both Soviet Union and Entente suffered great loses. Now Lev Mikhailovich Karakhan of the Soviet Union and Kenkichi Yoshizawa of Japan want to sign treaty to end this war and eventually recognize Soviet Union as a state and retreat from Russia."
 
  # ROMANIA
  ww1_romania.1.t:0 "루마니아의 카를 1세가 사망했습니다"
@@ -1206,6 +1209,9 @@
  ww1_japan.2.d:0 "독일이 우리의 최후통첩을 무시했습니다. 우리의 외교관은 아직 아무런 답변을 보내지 않았습니다. 우리는 전쟁을 할 필요가 있습니다! 하지만 우리는 한발짝 물러날 수도 있습니다..."
  ww1_japan.2.b:0 "물러나자"
  ww1_japan.2.a:0 "전쟁을 선포한다"
+ 
+ ww1_japan.700.a:0 "우린 반드시 따를 것이다"
+ ww1_japan.700.b:0 "우린 끝나기 전까지 계속 싸울 것이다"
 
  # KiS NEWS
  kis_news.100.t:0 "남극을 개척하다"
