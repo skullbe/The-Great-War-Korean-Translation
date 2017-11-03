@@ -11,10 +11,10 @@
  ww1_Faith_Allah_desc:0 "코란에서 알라는 신자들이 단합, 분열, 분열 및 분산을 강력하게 피하고 용서하고 보호하기 위해 서로 단결하고, 신뢰 계급에 가입하고, 형제로서 서로를 존중하고 사랑할 것을 명령합니다. 메카의 오토만 헤게모니와 칼립프 이슬람교의 술탄은 정부의 신앙을 증명합니다."
  #--------------------------------------------------------------
  ww1_Scramble_for_Africa:0 "아프리카 주도권 경쟁"
- ww1_Scramble_for_Africa_desc:0 "The rivalry between Britain, France, Germany, and the other European powers accounts for much of the tension between the Great Powers in this era. With only fragments of territory left unclaimed, the demands of annexing foreign colonies are already starting to echo in our streets."
+ ww1_Scramble_for_Africa_desc:0 “대영제국, 프랑스, 독일, 거기에 다른 유럽 열강사이의 경쟁은 이 시기 강대국 사이의 긴장 상황을 보여주고 있습니다. 소유권 없는 분산된 영토들을 해외 식민지로 합병하자는 주장들이, 자국 내 길거리에 일찌감치 울려 퍼지고 있습니다.”
  #--------------------------------------------------------------
  AUH_ww1_House_Habsburg_Lorraine:0 "합스부르크-로레인 가문"
- AUH_ww1_House_Habsburg_Lorraine_desc:0 "The House of Habsburg-Lorraine is one of the most influential Royal Houses of Europe, and the ruling dynasty of Austria-Hungary. The long legacy of this family on the throne of the Empire gives them much of the necessary legitimacy to maintain their rule, so long as they can maintain it."
+ AUH_ww1_House_Habsburg_Lorraine_desc:0 “합스부르크-로레인 가문은 유럽에서 가장 영향력 있는 왕가들 중 하나이며, 또한 오스트리아-헝가리 제국을 지배하고 있습니다. 이 가문이 오랫동안 왕위에 군림하며 남긴 유산은, 왕위를 유지하는 한, 지배를 유지하는데 필요한 정당성을 맘껏 활용할 수 있게 해줍니다.”
  #--------------------------------------------------------------
  GER_ww1_North_German_Confederation:0 "북독일연방의 유산"
  GER_ww1_North_German_Confederation_desc:0 "After years of being the secondary player in the German sphere, Prussia formed the North German Confederation, establishing itself as the foremost power in Germany, before finally unifying the empire. With this event still in living memory, the laws and pride of our people are still reflective of this monumental event."
@@ -32,10 +32,10 @@
  ENG_Staff_desc:0 "The British Army during World War I could trace its organisation to the increasing demands of imperial expansion. The framework was the voluntary system of recruitment and the regimental system, which had been defined by the Cardwell and Childers Reforms of the late 19th century. The British Army had been prepared and primarily called upon for Empire matters and the ensuing colonial wars.[4] In the last years of the 19th century, the Army was involved in a major conflict, the Second Boer War (1899–1902), which highlighted shortcomings in its tactics, leadership and administration. "
 
  ww1_difficulty_tinkywinki:0 "보라돌이 야-호!"
- ww1_difficulty_tinkywinki_desc:0 "''Why don't we send some flowers to the Kaiser, and then we'll all be home in time for tea!''"
+ ww1_difficulty_tinkywinki_desc:0 "''독일 황제놈에게 화환이나 보내주자고. 그럼 우리 모두 티타임에 맞춰 집에 돌아갈 수 있을 거야!''”
  ww1_difficulty_nottoday:0 "그냥 플레이하겠습니다"
  ww1_difficulty_nottoday_desc:0 " '아빠, 1차 세계 대전에서 뭘 했었어?'라고 묻는 다면 뭐라고 답할 것인가"
  ww1_difficulty_ballsofsteel:0 "나는 강심장입니다"
- ww1_difficulty_ballsofsteel_desc:0 "''My centre is giving way, my right is retreating, situation excellent, I am attacking.''"
+ ww1_difficulty_ballsofsteel_desc:0 "''내 중앙군은 무너져가며, 우익은 후퇴 중이다. 그야말로 최고의 상황이다. 나는 공격하겠다.''"
  ww1_difficulty_spartans:0 "오늘밤, 우리는 지옥에서 식사를 할 것이다!"
  ww1_difficulty_spartans_desc:0 "''모두에게 전쟁이 선포되어 있습니다! 오스만 제국은 대부분 직접 전쟁을 선포했습니다!''"
