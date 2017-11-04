@@ -350,8 +350,8 @@ GER_ww1_aggressive_foreign_policy_desc:0 "" #KAISER_ANONY
 GER_ww1_joingermany:0 "동맹국 가입"
 GER_ww1_joingermany_desc:0 "" #KAISER_ANONY
  
--GER_ww1_joinfrance:0 "협상국 가입" 
--GER_ww1_joinfrance_desc:0 "" #KAISER_ANONY 
+GER_ww1_joinfrance:0 "협상국 가입"
+GER_ww1_joinfrance_desc:0 "" #KAISER_ANONY
 
 GER_ww1_war_effort:0 "전쟁 주력"
 GER_ww1_war_effort_desc:0 "" #KAISER_ANONY
