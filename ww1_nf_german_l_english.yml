@@ -262,7 +262,6 @@ GER_ww1_democracy_desc:0 "" #KAISER_ANONY
 
 GER_ww1_centralizedpower:0 "관료제"
 GER_ww1_centralizedpower_desc:0 "" #KAISER_ANONY
-
 GER_ww1_freespeech:0 "언론의 자유"
 GER_ww1_freespeech_desc:0 "" #KAISER_ANONY
 
@@ -291,7 +290,7 @@ GER_ww1_leave_central_power:0 "동맹국 탈퇴"
 GER_ww1_leave_central_power_desc:0 "The Central Powers was the alliance of the old Germany. Now with the new direction our great country is taking, we stick out in our own alliance. One of our old members can frontline instead, and Germany will seek out a new course entirely." 
 
 GER_ww1_install_communism:0 "프롤레타리아 혁명"
-GER_ww1_install_communism_desc:0 "A fire that sparked in the south has begun to spread all over Germany. Workers are rising against their bosses, and the locals against the local aristocracy in charge. Germany shall become a communist republic, and bring terror to the burgoise of Europe!" #KAISER_ANONY
+GER_ww1_install_communism_desc:0 "남쪽에서 일어난 혁명의 불꽃은 독일 전역을 뒤덮었다. 노동자들은 그들의 주인에게, 주민들은 그들을 다스리던 기득권층에게 들고 일어났다. 독일은 공산주의 공화국이 될 것이며, 유럽의 부르주아들에게 공포를 가져다 줄 것이다!" #KAISER_ANONY
 
 GER_ww1_install_democracy:0 "자유 선거"
 GER_ww1_install_democracy_desc:0 "The old Emperor and monarchy simply must go. For Germany to remain stable and peaceful, she must adopt a democracy patterned after that of her contemporaries. The ghost of 1848 will live once again!"
@@ -331,7 +330,6 @@ GER_ww1_supportaustria_desc:0 "" #KAISER_ANONY
 
 GER_ww1_supportrussia:0 "러시아를 지원한다"
 GER_ww1_supportrussia_desc:0 "" #KAISER_ANONY
-
 GER_ww1_military_reserve:0 "군비 비축"
 GER_ww1_military_reserve_desc:0 "" #KAISER_ANONY
 
@@ -343,7 +341,6 @@ GER_ww1_embargo_france_desc:0 "" #KAISER_ANONY
 
 GER_ww1_sellweapons:0 "무기 판매"
 GER_ww1_sellweapons_desc:0 "" #KAISER_ANONY
-
 GER_ww1_appeasement:0 "유화 정책"
 GER_ww1_appeasement_desc:0 "" #KAISER_ANONY
 
@@ -380,7 +377,7 @@ GER_ww1_send_advisor_desc:0 "German advisors, particularly in the military, will
 GER_ww1_turkey_friend:0 "오스만과의 친선"
 GER_ww1_turkey_friend_desc:0 "The Ottoman Empire is in desperate need of more friends, and as it just so happens, so are we. Though their military has been rocked by some recent sound defeats, our neighbor France has already recovered from a far worse trouncing, so what's stopping them?"
 
-GER_ww1_zimmermann_telegram:0 "짐머만의 전보 전달"
+GER_ww1_zimmermann_telegram:0 "치머만 전보 전달"
 GER_ww1_zimmermann_telegram_desc:0 "Mexico, as unstable as it is, could be the key to keeping the US out of the war. If we form a defensive alliance with Mexico, the US will be forced to think twice about declaring war on us, with a neighbor next door to contend with. Of course, we would look incredibly bad if the telegram was intercepted, particularly if it was mistranslated and exaggerated."
 
 GER_ww1_baghdad:0 "베를린-바그다드 철도"
@@ -414,7 +411,7 @@ GER_ww1_anti_ru:0 "반러시아 정책"
 GER_ww1_anti_ru_desc:0 "Russia is no friend of ours, and perhaps never will be again, due to their extravagant claims on not only friendly territory but our own Polish land. Accepting this truth could lead to some new ways to deal with them down the line." 
 
 GER_ww1_anti_serb:0 "반 세르비아 정책"
-GER_ww1_anti_serb_desc:0 "The Serbians are rats, who would sell their own mother if it meant getting just a province out of Austrian Bosnia. If we face them as they truly are- an opposing state to us- we can prepare to stand against them in the future."
+GER_ww1_anti_serb_desc:0 "세르비아인들은 단지 오스트리아의 보스니아 지역을 얻을 수 있다면, 그들의 어머니마저도 팔아먹을 쥐새끼들이다. 만약 우리가 그들이 우리의 적국이라는 것을 인지하고 마주한다면 우리는 그들에게 대항할 준비를 할 수 있을 것이다."
 
 GER_ww1_bulgaria_puppet:0 "불가리아 괴뢰화"
 GER_ww1_bulgaria_puppet_desc:0 "Bulgaria proved with its lackluster performances in the Balkan wars that it is of no true use as an ally. Enforcing a puppet state over them may alienate some outsiders, but what does it matter? It's simply another impoverished Balkan hellhole, just like all the others." 
@@ -423,22 +420,21 @@ GER_ww1_bulgaria_friend:0 "불가리아와의 친선"
 GER_ww1_bulgaria_friend_desc:0 "Bulgaria has much to gain in a war against Serbia, and another two of our potential enemies in Greece and Romania. If we promise them claims on Macedonia and Thrace, which Austria-Hungary doesn't even have any desire to contest them for, they could join us, opening up a second front to relieve our overstretched forces, and give us another source of much-needed manpower."
 
 GER_ww1_ready_country:0 "전쟁 준비"
-GER_ww1_ready_country_desc:0 "The Generals are anxious for a fight. They're starting to believe that the Entente forces are planning something horrible against us. We must prepare for combat, and we must be ready to make a preemptive strike, or else we may not survive a coming conflict."
+GER_ww1_ready_country_desc:0 "장군들은 싸움에 대해 염려하고 있다. 그들은 협상국 군대가 우리에게 뭔가 끔찍한 것을 계획하고 있다고 믿기 시작했다. 우리는 반드시 전투 준비를 해야 하며, 그리고 반드시 선제 공격을 할 준비가 되어 있어야 한다. 그렇지 않다면 우리는 다가오는 충돌에서 생존하지 못할 것이다."
 
 GER_ww1_strengthen_kaiser:0 "황제의 권위 강화"
-GER_ww1_strengthen_kaiser_desc:0 "His majesty's rule over Germany must be unquestioned. Even in turbulent times, he is the best man to fall back on, and can support our empire through thick and thin. Therefore, any measure we can take, from constitutional amendments to new laws in the Reichstag, must be taken to keep Wilhelm powerful."
+GER_ww1_strengthen_kaiser_desc:0 "국왕 폐하의 독일 통치를 의심해서는 안 된다. 그는 격동의 시기에서도 기댈 수 있는 인물이며, 또한 제국을 위해서라면 수단과 방법을 가리지 않고 지원할 수 있는 인물이다. 그러므로, 헌법 개정안에서부터 의회의 새로운 법률까지 우리가 할 수 있는 모든 조치를 통해 빌헬름 각하의 권력을 지켜야 한다."
 
 GER_ww1_weaken_kaiser:0 "황제의 권위 약화"
-GER_ww1_weaken_kaiser_desc:0 "Wilhelm II has proven himself an...interesting leader, to say the least. Perhaps to ensure he does no further damage to the German Empire, it would be best to limit his control over the realm, and delegate more power to more capable hands." 
+GER_ww1_weaken_kaiser_desc:0 "빌헬름 2세는 스스로...'흥미로운' 지도자라는 것을 조금도 과장하지 않고 입증했다. 그가 독일 제국에 더 이상의 피해를 끼치는 것을 막기 위해, 그의 독일에 대한 통제력을 제한하고 더 유능한 인물들에게 권력을 위임하는 것이 최선이다." 
 
 GER_ww1_restructure_ostafrika:0 "독일령 동아프리카 개편"
-GER_ww1_restructure_ostafrika_desc:0 "East Africa is our foremost colony, but that doesn't mean we can't do more in the area. By expanding the role and administrative powers of the colonial government, they can effectively build up the region further for us."
-
+GER_ww1_restructure_ostafrika_desc:0 "동아프리카는 우리의 최대 식민지이지만, 그게 우리가 그곳에서 더 많은 일들을 할 수 없다는 의미는 아니다. 식민지 총독부의 역할과 행정 권한을 확대함으로서 그들은 그 지역을 우리를 위해 효율적으로 개발할 수 있다."
 GER_ww1_train_ostafrika:0 "독일 아프리카 수비대 배치"
 GER_ww1_train_ostafrika_desc:0 "Our colonial administrators have reported a large amount of local East African men who are unemployed fighters, looking to serve in the German army. If we can find some volunteers to train and lead this group, we could, if nothing else, hold out against British forces in the area as long as possible."
 
 GER_ww1_war_with_france:0 "1915년 슐리펜 계획"
-GER_ww1_war_with_france_desc:0 "It's finally time! France will be attacked through Belgium, and we will enter Paris while they're none the wiser! Our defenses in the east will be lackluster, but who cares? The troops from the west can be pulled in to help them! It must work! It WILL work, as the Kaiser wills it!"
+GER_ww1_war_with_france_desc:0 "드디어 시간이 왔다! 프랑스는 벨기에를 통해 공격당할 것이며, 우리는 그들이 모르는 사이 파리에 입성할 것이다! 우리의 동부 방어선은 형편없지만, 알 게 뭐냐? 서쪽에서 온 병력들이 그들을 도와줄 것이다!  반드시 그래야 한다! 카이저께서 원하시기 때문에, 그렇게 될 것이다!"
 
 GER_ww1_polnische_wehrmacht:0 "폴란드 국방군"
 GER_ww1_polnische_wehrmacht_desc:0 "If we promise the Poles their own nationstate after the war, perhaps the residents of our part of Poland will be more willing to join in on the action. Whether we cede the territory or not is, of course, a matter to be decided yet, but for now, we can enjoy the influx of able-bodied men without thinking of the consequences."
