@@ -10,7 +10,7 @@
 
  LOADING_TIP_4:0 "온 유럽의 등불이 꺼져가고 있다. 우리 생전에 다시 켜지는 일은 없겠지.\n- 에드워드 그레이, 1914년 7월"
 
- LOADING_TIP_5:0 "Two armies that fight one another is like one large army that commits suicide.\n- Henri Barbusse"
+ LOADING_TIP_5:0 “서로 싸우는 두 군대는 꼭 마치 하나의 자살하는 큰 군대 같다.-앙리 바르뷔스”
 
  LOADING_TIP_6:0 "이 전쟁은 모든 것을 끝낼 전쟁이다.\n- 우드로 윌슨"
 
@@ -26,16 +26,16 @@
 
  LOADING_TIP_12:0 "Patriots always talk of dying for their country, and never of killing for their country.\n- Bertrand Russell"
 
- LOADING_TIP_13:0 "EVERYTHING HAS GONE WELL. Our troops have successfully carried out their missions, all counter-atacks have been repulsed and large numbers of prisoners taken.\n- The Times, reporting on the Battle of the Somme"
+ LOADING_TIP_13:0 “모든 게 정말 잘되었습니다. 우리의 군대는 성공적으로 임무를 완수했으며, 반격은 모두 격퇴되었고 수 많은 포로를 사로잡았습니다. .\n- 더 타임즈, 솜 전투에 대한 보도”
 
  LOADING_TIP_14:0 "However the world pretends to divide itself, there are only two divisions in the world today - human beings and Germans.\n- Rudyard Kipling"
 
  LOADING_TIP_15:0 "After lunch we went into the garden for coffee and I turned on the Surgeon-General with his graphics, percentages etc. of sick and wounded to entertain the Premier.\n- Field Marshall Haig"
 
- LOADING_TIP_16:0 "No-man's land under snow is like the face of the moon: chaotic, crater ridden, uninhabitable, awful, the abode of madness.\n- Wilfred Owen"
+ LOADING_TIP_16:0 "눈 내린 무인지대는 달 표면과 같다: 혼란스러우며, 수 많은 분화구들, 사람이 살 수 없고, 끔찍하며, 광기가 사는 곳이다.\n- 참전 시인 윌프레드 오웬”
 
- LOADING_TIP_17:0 "We once discussed which were the cleanest troops in the trenches, taken by nationalities.\n- Robert Graves"
-
+ LOADING_TIP_17:0 "한때 우리는 참호에서 가장 깨끗한 부대는 어떤 국적일지 논하고 했다.\n- 참전 시인 로버트 그레이브스”
+ 
  LOADING_TIP_18:0 "In the account book of the Great War the page recording the Russian losses has been ripped out. The figures are unknown. Five millions, or eight? We ourselves know not.\n- Paul von Hindenburg, 1917"
 
  LOADING_TIP_19:0 "The safest thing to be said is that nobody knew how much a decoration was worth except the man who received it.\n- Siegfried Sassoon"
@@ -58,7 +58,7 @@
 
  LOADING_TIP_28:0 "그들이 통과하게 두지 마라!\n- 필리프 페탱, 1916년, 베르됭"
 
- LOADING_TIP_29:0 "The spell of Trafalgar has been broken.\n- Kaiser Wilhelm II"
+ LOADING_TIP_29:0 "트라팔가르의 주문이 부숴졌다. \n- 황제 빌헬름 2세”
 
  LOADING_TIP_30:0 "Fight on and fly on to the last drop of blood and the last drop of fuel, to the last beat of the heart.\n- Manfred von Richthofen"
 
@@ -72,7 +72,7 @@
 
  LOADING_TIP_35:0 "어서와, 개자식들아, 영원히 살고 싶냐?\n- 다니엘 데일리"
 
- LOADING_TIP_36:0 "This war, like the next war, is a war to end war.\n- David Lloyd George, 1916"
+ LOADING_TIP_36:0 “이번 전쟁은, 다음 전쟁처럼, 전쟁을 끝내기 위한 전쟁이다. \n- 영국의 총리 데이비드 로이드 조지, 1916년”
 
  LOADING_TIP_37:0 "At eleven o’clock this morning came to an end the cruellest and most terrible War that has ever scourged mankind. I hope we may say that thus, this fateful morning, came to an end all wars.\n- David Lloyd George, 11 November 1918"
 
@@ -106,7 +106,7 @@
 
  LOADING_TIP_52:0 "Let me assure the Sultan and his 300 million Muslims… that the German Emperor will ever be their friend.\n- Kaiser Wilhelm II"
 
- LOADING_TIP_53:0 "Lions led by donkeys.\n- Unknown German officer, describing British troops"
+ LOADING_TIP_53:0 “당나귀 무리가 이끄는 사자떼.\n- 영국군에 대한 무명 독일군 장교의 묘사”
 
  LOADING_TIP_54:0 "Should the worst happen Australia would rally to the Mother Country to help and defend her to our last man and our last shilling\n- Andrew Fisher, August 1914"
 
@@ -114,9 +114,9 @@
 
  LOADING_TIP_56:0 "No commander was ever privileged to lead a finer force; no commander ever derived greater inspiration from the performance of his troops.\n- John J. Pershing"
 
- LOADING_TIP_57:0 "Devonshires Held This Trench, the Devonshires Hold It Still\n- Marker, Devonshire Cemetery"
+ LOADING_TIP_57:0 “데본셔 연대는 이곳 참호를 지켜냈고, 데본셔 연대는 지금도 버티고 있다\n- 데본셔 묘지의 표지판”
 
- LOADING_TIP_58:0 "When we started firing we just had to load and reload. They went down in their hundreds. You didn't have to aim, we just fired into them.\n- German machine gunner"
+ LOADING_TIP_58:0 “우리가 발포하기 시작하면 우린 탄을 나르고 장전해야 했다. 적 수백명이 쓰러졌고. 조준 할 필요 없이, 그냥 쏘기만 하면 되는 거였다.\n- 독일군 기관총 사수”
 
  LOADING_TIP_59:0 "그이로 인하여 우리는 전쟁을 피했다.\n- 윌슨 대통령을 지지하기 위해 민주당이 사용한 슬로건"
 
