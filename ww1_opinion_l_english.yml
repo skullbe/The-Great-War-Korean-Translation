@@ -44,11 +44,11 @@ HOI4TGW_Opinion_ger_auh_alliance_focus_malus:0 "외교 관계 변경됨"
 HOI4TGW_Opinion_ger_ita_advisor_bonus:0 "고문관" 파견"
 HOI4TGW_Opinion_ger_auh_advisor_bonus:0 "고문관 파견"
 
-HOI4TGW_Opinion_fra_diplomats_bonus:0 "외교곽 파견"
+HOI4TGW_Opinion_fra_diplomats_bonus:0 "외교관 파견"
 
 HOI4TGW_Opinion_influence_faction:0 "세력 영향"
 
-HOI4TGW_Opinion_diplomats_malus:0 "외교 벌금"
+HOI4TGW_Opinion_diplomats_malus:0 "외교 불이익"
 
 # Remove -100
 HOI4TGW_Opinion_Russia_Leave_Entente:0 "러시아 제국 협상국 탈퇴"
