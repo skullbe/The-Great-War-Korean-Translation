@@ -4,13 +4,13 @@
 # LAND DOCTRINES
 
 ww1_landdoctrine:0 "대규모 돌격"
-ww1_landdoctrine_desc:0 "Once, armies trudged slowly up the battlefield, forming line before giving fire. With the Maxim now in use by nearly ever army in the world, however, this would be a good way to get our troops slaughtered. Our generals believe we need fast-moving charges of overwhelming numbers to break enemy defenses!"
+ww1_landdoctrine_desc:0 “예전만 하더라도 병사들은 전열을 형성하고 발포를 하기 전까진 전장으로 느릿느릿 진군하였다. 그러나 이제는 맥심 기관총이 거의 전 세계 군대에서 사용되고 있기에, 옛 방식은 우리 병사들을 도축하는 최고의 방법이나 다름없다. 우리 장군들은 수적우위를 활용한 재빠른 돌격으로 적 방어를 뚫어야 된다고 확신한다!”
 
-ww1_directfire:0 "자리를 유지하는 부대"
-ww1_directfire_desc:0 "The Machine Gun is a fearsome weapon, but experience has shown it to be even more fearsome under heavy cover. Trenches seem appropriate, and specific engineering battalions designated for trench construction should speed their construction. A line of trenches shall cover the front!"
+ww1_directfire:0 "참호 대대"
+ww1_directfire_desc:0 "기관총은 무서운 무기이지만, 튼튼히 방호될 때 더욱 무서워 진다는 것이 경험으로 증명되었다. 참호가 적합해 보이며, 참호 공사에 특화된 공병 대대로 공사에 박차야 한다. 참호의 행렬로 전방을 뒤덮을 것이다!"
 
 ww1_rifle_ammo:0 "소총수 으뜸"
-ww1_rifle_ammo_desc:0 "Though the Machine Gun is a fearsome weapon in today's war, the Rifleman is still more common, more easily trained and equipped, and far more mobile than a man on a Maxim. Focusing on these core troops may give us a positioning and speed advantage in combat, and of course, ensure that our most common kind of foot soldier is the best kind."
+ww1_rifle_ammo_desc:0 "오늘날 전쟁에서 기관총이 무서운 무기이긴 하나. 여전히 소총수는 더 흔하고, 편성과 장비를 더 쉽게 할 수 있으며, 무엇보다 맥심 사수보다 더 기동성이 있다. 핵심 병력에 집중함으로 우리는 전투에서 위치 선정 및 속도에서의 이점을 누릴 것이며, 또한 우리의 가장 흔한 보병이 최고급임을 보장할 수 있게 된다."
 
 ww1_mg_ammo:0 "기관총 부대"
 ww1_mg_ammo_desc:0 "The Heavy Machine Guns- mostly Maxims- we have in use are, despite their primacy, operated inefficiently. Any MG needs 3 people- a gunner, a loader to keep the ammunition flowing, and a spotter to call targets, support the weapon with rifle or pistol fire, and direct the MG's fire. Training support gunners in all 3 of these roles ensures a great supply of trained crews, and ensures anyone knocked out in battle can be replaced."
@@ -21,14 +21,14 @@ ww1_long_march_desc:0 "When the enemy's trench has finally been emptied and over
 ww1_defence:0 "고정 진지"
 ww1_defence_desc:0 "Trenches alone are nice, but more complex systems are even better. Making lines of trenches backed with bunker complexes for officers, supply depots spread out among the lines, and common signal stations will make our lines a nightmare to cross."
 
-ww1_battlefield:0 "반격"
-ww1_battlefield_desc:0 "Sometimes, the best defense is a good offense. However, sometimes the best offense is an enemy's mistake punished. By trying to bait enemies into attacking, just to slaughter them, and responding with an attack in kind, we can easily ensure a successful offensive in battle."
+ww1_battlefield:0 "공세이전"
+ww1_battlefield_desc:0 "간혹 최고의 방어는 훌륭한 공격이다. 그러나 때때로 최고의 방어는 적이 실수에 처했을 때다. 적이 공격하게끔 미끼를 놓은 뒤, 적을 도살해버리고 같은 방식의 공격으로 대응한다. 이로 우리는 전투에서 쉽게 공세를 진행할 수 있다."
 
 ww1_target:0 "정확한 포위섬멸"
 ww1_target_desc:0 "Trenches and fortified lines are no easy target for our troops. The wall of lead and men to fight that extends seemingly forever is almost impervious to a full frontal assault. However, if we can find the weak points in the trench line, sneak through, and attack not just from the front, but the side and back as well, we can clear enemy trenches with ease."
 
-ww1_night:0 "딥디펜스"
-ww1_night_desc:0 "With many recent developments in offensive doctrine, we must not forget our defensive doctrines as well. Deep Defense, also known as Defense in Depth, is a technique that turns the frontline trench into an entire system, with fallback lines, escape routes, and plentiful reserves, allowing us to ensure that any enemy who wants to make a long-term attack to knock our troops out of the area will pay dearly for it."
+ww1_night:0 "종심방어"
+ww1_night_desc:0 "최근 들어 공격 교리에서 많은 발전이 보였지만, 우리는 방어 교리 또한 잊고 있어서는 안 된다. 계층 방어로도 불리는 종심방어는 최전선 참호의 전체적인 체계를 바꾸는 기술이다. 참호에 대응 전선과 탈출로 그리고 충분한 비축물자를 둔다. 이를 통해 장기간의 공격으로 우리 군대를 지역에서 몰아내고 싶어 하는 적에게 비싼 대가를 치르도록 만든다."
 
 ww1_armored_car:0 "대전차전"
 ww1_armored_car_desc:0 "Enemy Tanks are able to tear through lines of Infantry like nothing else, and unopposed, even when they're virtually alone. However, our direct-fire infantry guns have unexpectedly proven to be able to smash through their armor, and our basic grenades- especially larger and more explosive models- have been doing devestating damage. If we focus the use of these weapons against enemy tanks, we may just stand up to these beasts, and end the ''Tank Panic'' devestating our troops."
@@ -86,7 +86,7 @@ ww1_airdoctrine_2_desc:0 "Airships have been shown to be no good for fighting en
 ww1_airdoctrine_3:0 "폭격 조준하기"
 ww1_airdoctrine_3_desc:0 "While it's possible to manually determine where exactly a bomb is going to land mid-flight, it's not something you want to waste time doing. Ensuring that all of our bombing aircraft have accurate bombing sights, and that all of our bombing pilots know how to use them, will help all such aircraft hit their marks more often and quickly."
 
-ww1_airdoctrine_4:0 "공중 투하 폭탄"
+ww1_airdoctrine_4:0 "항공 폭탄"
 ww1_airdoctrine_4_desc:0 "While any old explosive will work as a bomb, we can increase the accuracy of all of our models with the Aerial Bomb design, which will let us use innovative design changes such as the impact fuse, and, perhaps more importantly, increase the potential weight of such weapons. Supplying our pilots with these new designs as well as continuing to improve the stability and blast power of these designs will lead to direct improvements in our bombing ability."
 
 ww1_airdoctrine_5:0 "V자 대형"
