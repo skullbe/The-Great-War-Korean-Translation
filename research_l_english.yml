@@ -571,13 +571,13 @@
 
 
  chemical_research:0 "화학 연구"
- chemical_research_desc:0 "A chemical substance is a form of matter that has constant chemical composition and characteristic properties."
+ chemical_research_desc:0 “화학물질은 변함없는 구성과 특성을 지니는 물질의 형태를 말한다.”
 
  chemical_research2:0 "겨자 가스"
- chemical_research2_desc:0 "Mustard Gas was originally assigned the name LOST, after the scientists Wilhelm Lommel and Wilhelm Steinkopf, who developed a method for the large-scale production for the Imperial German Army in 1916."
-
- chemical_research3:0 "Phosgene Shell"
- chemical_research3_desc:0 "Following on the heels of chlorine gas came the use of phosgene.  Phosgene as a weapon was more potent than chlorine in that while the latter was potentially deadly it caused the victim to violently cough and choke."
+ chemical_research2_desc:0 “1916년 과학자 빌헬름 롬멜 및 빌헬름 슈타인코프가 독일제국군을 위해 겨자 가스 대규모 생산 공정을 개발한 이후, 겨자 가스에겐 LOST라는 명칭이 처음으로 부여되었습니다.”
+ 
+ chemical_research3:0 "포스겐 포탄"
+ chemical_research3_desc:0 "염소 가스에 뒤를 이어 포스겐이 사용되었습니다. 포스겐은 염소 가스보다 무기로서의 효능이 더 우수했는데, 포스겐의 피해자는 극심한 기침과 질식으로 사망 가능성이 높았기 때문입니다."
 
  computing_machine:0 "연산 기계"
  computing_machine_desc:0 "현대화된 컴퓨터를 위한 기초이론 개발과 전자기기를 구성 연습하도록 시작하는 것은 이 분야의 가능성에 첫 걸음이 될 것입니다."
