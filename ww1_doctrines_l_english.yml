@@ -19,7 +19,7 @@ ww1_long_march:0 "기동 진지"
 ww1_long_march_desc:0 "When the enemy's trench has finally been emptied and overrun, it is imperative that we be able to exploit our advantage! Several of our attacks fail simply because by the time we get to the enemy's trench line, they've already assembled a much larger counter attack, and expel our attacking force before the support moves up. By making sure our men are prepared to move up the line quickly, we ensure we can keep what ground we get."
 
 ww1_defence:0 "고정 진지"
-ww1_defence_desc:0 "Trenches alone are nice, but more complex systems are even better. Making lines of trenches backed with bunker complexes for officers, supply depots spread out among the lines, and common signal stations will make our lines a nightmare to cross."
+ww1_defence_desc:0 "참호는 그 자체로도 유용하나, 복합적인 구조를 지닐 수록 더욱 좋아진다. 참호 전선에 장교를 위한 벙커 지역을 구성, 보급고를 전선 사이사이 분산 배치하고, 공용 신호소를 설치함으로 우리 전선을 가로질러가는 걸 악몽같이 만들 수 있다."
 
 ww1_battlefield:0 "공세이전"
 ww1_battlefield_desc:0 "간혹 최고의 방어는 훌륭한 공격이다. 그러나 때때로 최고의 방어는 적이 실수에 처했을 때다. 적이 공격하게끔 미끼를 놓은 뒤, 적을 도살해버리고 같은 방식의 공격으로 대응한다. 이로 우리는 전투에서 쉽게 공세를 진행할 수 있다."
@@ -31,7 +31,7 @@ ww1_night:0 "종심방어"
 ww1_night_desc:0 "최근 들어 공격 교리에서 많은 발전이 보였지만, 우리는 방어 교리 또한 잊고 있어서는 안 된다. 종심방어전술으로도 불리는 종심방어는 최전선 참호의 전체적인 구성을 바꾸는 기술이다. 참호에 대응 전선과 탈출로 그리고 충분한 비축물자를 둔다. 이를 통해 장기간의 공격으로 거점에서 우리 군대를 몰아내고 싶어 하는 적에게 비싼 대가를 치르도록 만든다."
 
 ww1_armored_car:0 "대전차전"
-ww1_armored_car_desc:0 "Enemy Tanks are able to tear through lines of Infantry like nothing else, and unopposed, even when they're virtually alone. However, our direct-fire infantry guns have unexpectedly proven to be able to smash through their armor, and our basic grenades- especially larger and more explosive models- have been doing devestating damage. If we focus the use of these weapons against enemy tanks, we may just stand up to these beasts, and end the ''Tank Panic'' devestating our troops."
+ww1_armored_car_desc:0 "적 전차는 보병 전선을 찢어 발길 수 있으며, 심지어 거의 단독으로 행동하더라도 최소한의 방해조차 받지 않는다. 그러나 우리의 보병용 직사화기가 전차의 장갑을 박살 낼 수 있음이 우연히 증명되었고, 우리군의 평범한 수류탄 (특히 폭약과 크기가 큰 유형일수록)은 전차에 파괴적인 손상을 가해 왔다. 우리가 적 전차 대항에 이런 무기들을 집중적으로 사용한다면, 짐승들에 맞서 싸울 수 있을 것이고, 우리 병사들을 와해시키는 ‘전차 공황’을 끝낼지도 모른다."
 
 ww1_tank:0 "중전차 지원"
 ww1_tank_desc:0 "These brand new Tanks seem to be the wonder weapons to win the war. Passing through enemy trenches and nearly invulnerable to small arms fire, they're devestating machines. However, there's no doubt our enemy will eventually develop the weapons needed to take these vehicles out, so we must ensure we make the most out of these new combat vehicles by the time they lose their decisive advantage."
