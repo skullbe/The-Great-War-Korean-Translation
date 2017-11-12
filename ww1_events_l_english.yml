@@ -1577,6 +1577,9 @@
  ww1_frankfurt.3.d:0 "Our presence has been requested by the German Empire to attend to a secret meeting along side with others major countries taking place in Frankfort. We will surely discuss the fate of the War..."
  ww1_frankfurt.3.a:0 "우린 달리 할 방법이 없다..."
 
+ ww1_finland.1.t:0 "핀란드 내전"
+ ww1_finland.1.d:0 "A Civil War between the Reds and the Whites has started in Finland. The paramilitary Red Guards, composed of industrial and agrarian workers, control the cities and industrial centers of southern Finland. The paramilitary White Guards, composed of peasants and middle-class and upper-class factions, controlled rural central and northern Finland."
+ ww1_finland.1.a:0 "적군 vs. 백군"
 
  
  # Do not change
