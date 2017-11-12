@@ -29,7 +29,10 @@
  JET_ENGINES_SPECIAL:0 "제트 엔진의 발전은 제트 비행기를 개발하기 위한 필수적인 선결요소입니다. 당신이 보다 개선된 비행기를 연구하고 싶다면 이는 반드시 연구되어야 합니다."
  jet_engines_desc:0 "획기적인 추진 기술로써, 제트엔진은 개발은 완전히 새로운 차세대 항공기 개발을 가능하게 해 줄 것입니다."
  convoy_1:0 "수송선"
- 
+
+ tech_ww1_bayonet1:0 "향상된 착검"
+ tech_ww1_bayonet1_desc:0 "Prior to World War I, bayonet doctrine was largely founded upon the concept of "reach". It was logic to use of an extremely long rifle and fixed bayonet, to stab an enemy soldier without having to approach within reach of his opponent's blade. But, due to the reduction in barrel length, the overall "reach" of the new short rifles with attached bayonet was reduced."
+
  motorized_equipment:0 "수송 차량"
  motorized_equipment_desc:0 "트럭과 다른 차들은 군대를 전장으로 수송하는데 사용했습니다."
  
