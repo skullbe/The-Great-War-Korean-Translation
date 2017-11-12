@@ -360,22 +360,22 @@ GER_ww1_diplomatic_effort:0 "외교 주력"
 GER_ww1_diplomatic_effort_desc:0 "" #KAISER_ANONY
 
 GER_ww1_triple_alliance:0 "삼국동맹을 갱신하다"
-GER_ww1_triple_alliance_desc:0 "Our old alliance with Austria-Hungary and Italy needs to be renewed again, and considering the climate of Europe, it's a hard case to argue not at least trying to do so. Italy in particular seems to be less and less dedicated to this alliance as time goes on, and special attention must be given to the area to ensure they don't betray us."
+GER_ww1_triple_alliance_desc:0 "우리의 오랜 동맹인 오스트리아-헝가리 그리고 이탈리아와의 관계를 새로이 재개해야 하며, 유럽의 분위기를 고려해본다면 동맹 갱신 시도를 피할 수가 없다. 또한 이탈리아는 시간이 갈수록 동맹에 헌신적으로 보이지 않으므로, 우릴 배신하지 않도록 그 지역에 특별한 주의를 기울어야 한다.
 
 GER_ww1_secret_alliance_rom:0 "루마니아와의 비밀 동맹"
-GER_ww1_secret_alliance_rom_desc:0 "Romania is ruled by a German, and a distant relative of the Royal Family no less. Due to this alone, if nothing else, they are in a position to have a stake in the Triple Alliance, even if not much, due to their claims on Austria. Still, placating them for a while may be strategically to our advantage, if a war with Russia breaks out."
+GER_ww1_secret_alliance_rom_desc:0 "루마니아는 독일인이 통치하며, 루마니아 왕가는 독일의 먼 친척이다. 적어도 이 점 하나만으로도, 또한 (크지는 않지만) 오스트리아에 대한 요구로, 루마니아는 삼국 동맹과 이해관계에 처해 있다. 그렇기는 해도, 한동안은 루마니아를 달래는 쪽이 러시아와 전쟁이 발발한다면 전략적으로는 우리에게 유리할 것이다."
 
 GER_ww1_italy_ally:0 "이탈리아를 지원한다"
-GER_ww1_italy_ally_desc:0 "Beginning a diplomatic push to further ties with Italy will weaken our position with Austria-Hungary, though this may be a price worth paying to keep them at least slightly more loyal." 
+GER_ww1_italy_ally_desc:0 "이탈리아와의 관계를 더 결속하기 위해 외교적 압력을 가한다면, 오스트리아-헝가리와 우리의 관계를 약화시킬 것이다. 그러나 이탈리아를 조금이나마 더 충성하게 만들기 위해선 치를 가치가 있을 것이다." 
 
 GER_ww1_back_austria:0 "오-헝을 지원한다"
-GER_ww1_back_austria_desc:0 "Beginning a diplomatic push to further ties with Austria-Hungary will alienate Italy to a degree, but perhaps they can learn from Austria-Hungary's level of loyalty in this case?"
+GER_ww1_back_austria_desc:0 "오스트리아-헝가리와의 관계를 더 결속하기 위해 외교적 압력을 가한다면, 우리와 이탈리아의 관계가 조금 소원해질 것이다. 그러나 어쩌면 이탈리아가 이를 통해 오스트리아-헝가리의 충성도를 알게 되지 않을까?"
 
 GER_ww1_send_advisor:0 "독일 고문관 파견"
-GER_ww1_send_advisor_desc:0 "German advisors, particularly in the military, will be warmly recieved by both Italy and Austria-Hungary, and further our relations with both nations, while costing Germany little but finding men worthy of the task and putting them on a train out."
+GER_ww1_send_advisor_desc:0 "독일 고문관(특히 군 인사 쪽)은 이탈리아와 오스트리아-헝가리 양쪽에서 감사히 받아들일 것이고, 두 국가와의 관계도 개선될 것이다. 독일에겐 약간의 비용이 들겠지만, 업무에 적절한 사람을 찾아 훈련시키자."
 
 GER_ww1_turkey_friend:0 "오스만과의 친선"
-GER_ww1_turkey_friend_desc:0 "The Ottoman Empire is in desperate need of more friends, and as it just so happens, so are we. Though their military has been rocked by some recent sound defeats, our neighbor France has already recovered from a far worse trouncing, so what's stopping them?"
+GER_ww1_turkey_friend_desc:0 "오스만 제국은 간절하게 동료를 더 원하고 있고, 때마침 우리도 같은 처지에 있다. 오스만 군은 최근에 겪은 처절한 패배들로 뒤흔들리고 있지만, 우리 이웃 프랑스는 더 처절한 참패에서도 진작 극복해냈다. 뭐가 그들을 방해한다는 건가?"
 
 GER_ww1_zimmermann_telegram:0 "치머만 전보 전달"
 GER_ww1_zimmermann_telegram_desc:0 "Mexico, as unstable as it is, could be the key to keeping the US out of the war. If we form a defensive alliance with Mexico, the US will be forced to think twice about declaring war on us, with a neighbor next door to contend with. Of course, we would look incredibly bad if the telegram was intercepted, particularly if it was mistranslated and exaggerated."
@@ -465,7 +465,7 @@ kis_alternativehistory_5:0 "러시아 개입"
  ger_auh_alliance_focus:0 "독일-오스트리아 동맹 중점"
  ger_bul_alliance_focus:0 "독일-불가리아 동맹 중점"
 
-usa_zimmermann_telegram:0 "머만의 전보"
+usa_zimmermann_telegram:0 "치머만의 전보"
 
 SUPER_GLOBAL_Adios_Francisco_Madero_1913:0 "멕시코에서의 군사 쿠데타"
  
