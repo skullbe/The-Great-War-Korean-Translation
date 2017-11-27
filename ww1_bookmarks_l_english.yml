@@ -17,11 +17,11 @@
 
  ITA_POWDERKEG_DESC:0 "이탈리아는 삼국동맹에서 가장 작습니다. 또한 동맹에서 소극적입니다. 이탈리아의 숙적이였던 오스트리아-헝가리는 조약을 통해 아군이 되었습니다. 하지만 실질적으론 아직 적대관계입니다. 어찌됬건 이탈리아는 오스트리아가 소유하고 있는 달마티아에 영유권을 주장하고 있습니다. 지금현재 다른 한편으론 압박 중인 여러 문제가 있습니다.\n\n오스만과의 전쟁계획을 수립한 상태입니다. 정부가 앞으로 할 일은 단 한가지, 전쟁입니다. 이탈리아의 힘을 보여줄 때입니다."
 
- AUH_POWDERKEG_DESC:0 "지난 세기에는 오스트리아 왕가는 골칫덩어리였습니다. 나폴레옹의 폭주와 프러시아인들의 독일 통일에 이르기까지, 모두 치욕이었습니다. 훌륭한 프란츠 요제프 황제 폐하께서는 조국의 오랜 두 숙적들과 함께 삼국 동맹을 맺게 되었습니다. 하지만 놀랍게도, 지금까지 오스트리아는 별다른 문제 없이 동맹관계를 유지했습니다. 합스부르크는 보스니아를 이양받게 되고, 헝가리인들은 잘 따르는 것처럼 보입니다. 아마도 좋은 일들이 더 생기겠지요."
+ AUH_POWDERKEG_DESC:0 "지난 세기에 오스트리아 왕가는 골칫덩어리였습니다. 나폴레옹의 폭주와 프러시아인들의 독일 통일에 이르기까지, 모두 치욕이었습니다. 훌륭한 프란츠 요제프 황제 폐하께서는 조국의 오랜 두 숙적들과 함께 삼국 동맹을 맺게 되었습니다. 하지만 놀랍게도, 지금까지 오스트리아는 별다른 문제 없이 동맹관계를 유지했습니다. 합스부르크는 보스니아를 이양받게 되고, 헝가리인들은 잘 따르는 것처럼 보입니다. 아마도 좋은 일들이 더 생기겠지요."
 
- RUS_POWDERKEG_DESC:0 "Recent years have not been kind to the Russian Empire. With a major military defeat at the hands of Japan, followed by a revolution that forced the once-invincible Tsar into a constitution, the Russian government must get back on its feet and prove its strength again, or risk revolution. \n\nLuckily, the Balkans are turbulent again. The crumbling Ottoman Empire is Russia's opportunity to expand, create new puppet states, and more importantly, prove it is still a world power."
+ RUS_POWDERKEG_DESC:0 "최근 몇년간은 러시아 제국은 화목하지 못 했습니다. 주력 군대가 일본에게 패배했고, 한 때 차르의 퇴진을 요구하는 혁명이 일어나면서, 러시아 정부는 다시 강력한 힘을 가졌다는 것을 증명하거나, 혁명의 위험을 감수해야합니다. \n\n운이 좋게도, 발칸반도에서 다시 문제가 터져나오고 있습니다. 무너져가는 오스만 제국은 러시아의 세력 확장에 좋은 기회이며, 새로운 속국들을 만들 수도 있겠지요, 더 중요한 것은, 전세계에 러시아가 아직 강하다는 것을 증명할 수 있을 것입니다.
 
- TUR_POWDERKEG_DESC:0 "Storm clouds are gathering over Kostantiniyye. Serbia, Greece and Bulgaria have been scheming together again- likely a war to try and claim the territory they unrightfully claim is theirs. The Albanians are close to revolt. The Italian government is also very publicly contemplating a conquest of the Tripoli Vilayet. \n\nLoss of territory is nearly inevitable. Ottoman Diplomacy, therefore, should center around ensuring we keep the capital, if nothing else."
+ TUR_POWDERKEG_DESC:0 "폭풍운이 콘스탄티녜 위를 감싸기 시작했습니다. 세르비아, 그리스 그리고 불가리아는 다시 함께 뭉쳐서 전쟁을 일으켜, 그들이 주장하는 영토에 불공정한 주권을 행사하려고 합니다. 알바니아들은 혁명의 열기에 달아올랐습니다. 이탈리아 정부 역시 트리폴리 지역을 빼앗는 것에 대해 심사숙고 중입니다. \n\n영토 손실은 불가피 할 것입니다. 오스만 제국은 무엇보다도 우리의 수도를 지켜내야할 것입니다."
 
  SER_POWDERKEG_DESC:0 "Serbia is seen by outsiders as a backwater, minor nation. Nothing more than a pawn in a great game that the world's empires are playing as each other. Of course, the empires of the world may learn sooner than they think that the Serbs are destined for greater things. \n\nCurrently, most Serbs live outside our borders, in Turkish or Austrian territory. If we are to make a deal with the devil- the Bulgarians- the Serbs may begin their road for glory by way of full Serbian unification."
 
@@ -33,7 +33,7 @@
 
  BEL_POWDERKEG_DESC:0 "Protected by the British, seen by the German as a backdoor leading to Paris avoiding the fortified French military's concentration along the Franco-German border, the Kingdom of Belgium is in a tricky situation.\n\nKing Albert I will have a difficult choice to make, either stand against the Kaiser Willem II and stood side by side with Entente or either let the German troops walk in its territories and take a different course of action."
 
- OTHER_POWDERKEG_DESC:0 "Other countries of the period."
+ OTHER_POWDERKEG_DESC:0 "그 외 다른 국가들"
 
 
  #----------------------------------------------------------------------------------------------------------------------------------
