@@ -14,7 +14,7 @@
  # March on Rome (Mussolini)
  interwar_news.2.t:0 "로마 행진"
  interwar_news.2.d:0 "Benito Mussolini, Emilio De Bono, Italo Balbo and Cesare Maria De Vecchi alongside 30,000 men, have marched on Rome, with mild support from the population. Vittoro Emmanuale III, fearing civil war in Italy, has aceeded to his demands, and has appointed Mussolini the new Presidente del Consiglio, or Prime Minister. Mussolini has already begun elbowing the King out of Italian affairs- and this could change Europe as we know it."
- interwar_news.2.a:0 "A New Duce for Italy"
+ interwar_news.2.a:0 "이탈리아의 새로운 지도자군"
 
  # Wall Street Crash
  interwar_news.3.t:0 "월 스트리트 붕괴"
@@ -42,30 +42,30 @@
  interwar_news.7.a:0 "대통령 만세!"
  
   # The Turkish National Movement
- interwar_news.8.t:0 "Nationalist Movement in Turkey"
+ interwar_news.8.t:0 "터키에서 국가주의 운동이 일어나다"
  interwar_news.8.d:0 "As a consequence of the defeat of the Ottoman Empire in The Great War and the subsequent occupation of Constantinople and partitioning of the Ottoman Empire by the Allies. The Ottomans saw the movement as part of an international conspiracy against them. Some Turkish revolutionaries rebelled against this partitioning!"
- interwar_news.8.a:0 "Wiil Mustafa Kemal Atatürk succeed?"
+ interwar_news.8.a:0 "아타튀르크가 성공할 수 있을까?"
 
   # The Greco-Turkish War
- interwar_greco_turkish_war:0 "Greco-Turkish War"
- interwar_news.9.t:0 "Greco-Turkish War"
+ interwar_greco_turkish_war:0 "그리스-터키 전쟁"
+ interwar_news.9.t:0 "그리스-터키 전쟁"
  interwar_news.9.d:0 "The Greeks received an order to land in Smyrna by the Triple Entente as part of the partition of the Ottoman Empire. The Ottoman Empire is on its knees but still alive!"
- interwar_news.9.a:0 "Can the Greeks win alone?"
+ interwar_news.9.a:0 "그리스가 홀로 이길 수 있을까?"
 
   # Treaty of Lausanne
- interwar_treaty_of_lausanne:0 "Treaty of Lausanne has been signed"
- interwar_news.10.t:0 "Treaty of Lausanne"
+ interwar_treaty_of_lausanne:0 "로잔 조약이 체결되다"
+ interwar_news.10.t:0 "로잔 조약"
  interwar_news.10.d:0 "The Treaty of Lausanne has been signed in Palais de Rumine, Lausanne, Switzerland. It officially settled the conflict that had originally existed between the Ottoman Empire and France, British Empire and Greece since the onset of World War I."
- interwar_news.10.a:0 "Constantinople will stay under Turkish rule"
+ interwar_news.10.a:0 "콘스탄티노플은 터키령으로 남을 것이다"
 
  # Irish War of Independence
  interwar_irish_war_of_independence:0 "아일랜드 독립 전쟁"
- interwar_news.11.t:0 "Irish War of Independence"
+ interwar_news.11.t:0 "아일랜드 독립 전쟁"
  interwar_news.11.d:0 "The Easter Rising of 1916, and particularly the execution of fifteen people by firing squad, the imprisonment or internment of hundreds more, and the imposition of martial law caused a profound shift in public opinion towards the republican cause in Ireland.\nThe army of the Irish Republic, the Irish Republican Army, started an undeclared war against the British Army."
- interwar_news.11.a:0 "God Save the King"
+ interwar_news.11.a:0 "신이시여 왕을 보호해주소서"
 
  # Irish Free State
- interwar_irish_free_state:0 "Irish Free State"
- interwar_news.12.t:0 "Irish Free State established"
+ interwar_irish_free_state:0 "아일랜드 자유국"
+ interwar_news.12.t:0 "아일랜드 자유국이 성립되다"
  interwar_news.12.d:0 "The between the forces of the self-proclaimed Irish Republic, the Irish Republican Army (IRA), and British Crown forces is over. The Irish Free State is established!"
- interwar_news.12.a:0 "Saoirse!"
+ interwar_news.12.a:0 "시얼샤!"
