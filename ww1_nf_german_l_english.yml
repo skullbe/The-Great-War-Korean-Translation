@@ -4,13 +4,13 @@
 # [GERMAN EMPIRE] Army Effort
 #=========================================================================
 GER_ww1_army_effort:0 "독일 육군 중점"
-GER_ww1_army_effort_desc:0 "The German Army is a powerful force indeed. Numerically inferior only to the Russian army, but far more disciplined, trained, well led, and well equipped than the forces of the Bear, our land force is among the world's greatest- if not THE world's greatest. However, that does not mean we can stay comfortably in such a position. We must continue to improve our military, especially on theory and doctrine, to ensure we never fall behind."
+GER_ww1_army_effort_desc:0 "독일 육군은 정말로 강력하다. 양적으론 러시아군에게만 밀리지만, 규율과 훈련이 더 잘되었고 잘 통솔되며, 그리고 불곰국의 군대보다 양질의 장비를 갖추고 있다. 우리 육군은 열강들보다 뛰어난 정도가 아니라, 세계 최강이나 다름없다. 그러나 우리가 이런 상황을 편하게 지내도 되는 이야기는 아니다. 우리는 지속적으로 군을 향상시키고, 특히 이론과 교리를 개선함으로, 절대 뒤쳐지는 일이 없도록 해야 한다. "
 
 GER_ww1_trenchwarfare:0 "참호전 중점"
-GER_ww1_trenchwarfare_desc:0 "Since Gatling and Maxim introduced their unholy weapons of warfare, our nation has been keenly interested in strategies based around the defense of Trench lines, which were first seen as far back as the American Civil War. We must seek experts in this theory- both field and armchair generals- in order to advance our knowledge in tomorrow's Land Doctrines."
+GER_ww1_trenchwarfare_desc:0 "잔혹한 무기인 개틀링과 맥심 기관총이 전쟁에 도입된 이후로, 우리 국가는 남북전쟁때 처음으로 등장한 참호선 방어 관련 전략에 깊은 관심을 보이고 있다. 우리는 야전장군이나 탁상공론 장군을 가리지 않고, 참호 이론의 전문가를 찾아내어 미래의 지상전 교리에 알맞은 지식을 갖추어야 한다."
 
 GER_ww1_artillery_effort_1:0 "포병 개발"
-GER_ww1_artillery_effort_1_desc:0 "One step to expand our young military modernization program is further development of our Artillery batteries. Seeking out designers for new weapons is a logical first step, and once our project is completed, we expect to reap the benefits of an easily-designed new Artillery piece."
+GER_ww1_artillery_effort_1_desc:0 "신생 군 현대화 계획의 첫 일보는 우리 포대의 추가 개발이다. 신병기를 위한 개발자를 찾는 건 합당한 첫 과제이며, 우리의 목표가 완료되면, 우리는 잘 만들어진 신 화포로 혜택을 얻을 것이라 기대한다."
 
 GER_ww1_artillery_effort_2:0 "포병 개발 II"
 
@@ -387,10 +387,10 @@ GER_asienkorps:0 "아시아 군단"
 GER_asienkorps_desc:0 ""
 
 GER_ww1_assert_position_west:0 "서유럽에 독일의 권리 주장"
-GER_ww1_assert_position_west_desc:0 "The Western front is a gloomy place for the Central Powers. France and the UK have bonded against us and our interests, which hurts the German future in Africa. Worse yet, Belgium doesn't seem quite so willing anymore to let German troops through to crush the French, who they no longer see as a threat. We must make the most of a bad situation if we are to stay afloat as a great power." 
+GER_ww1_assert_position_west_desc:0 "서부전선은 동맹국에게 있어 비관적인 장소다. 프랑스와 영국은 우리와 우리의 관심사를 대항하기 위해 결합했으며, 아프리카에서의 독일 장래에 피해를 주고 있다. 설상가상으로, 벨기에는 독일군이 프랑스군을 완승할거라 더 이상 생각하지 않으며, 위협감을 느끼지 않는다. 우리가 열강으로 유지하기 위해선 가장 최악의 상황을 발생시켜야 한다."
 
 GER_ww1_anti_fr:0 "반프랑스 정책"
-GER_ww1_anti_fr_desc:0 "Since time immemorial, the Germans and the French have been enemies. If we act around this reality, it opens up new and interesting options to deal with them in the future."
+GER_ww1_anti_fr_desc:0 "먼 옛날부터, 독일인과 프랑스인은 적대관계이다. 우리가 이러한 현실에 행동을 취한다면, 먼 미래에 그들을 대처할 새롭고 흥미로운 선택지들을 열어줄 것이다."
 
 GER_ww1_anti_uk:0 "반영국 정책"
 GER_ww1_anti_uk_desc:0 "While the Anglo-German friendship was nice while it lasted, Germany and the United Kingdom have come to bear with each other in recent years, and it seems like this won't be reversed any time soon. Acknowledging our rivalry outright will open up some options to circumvent them diplomatically."
@@ -430,6 +430,7 @@ GER_ww1_weaken_kaiser_desc:0 "빌헬름 2세는 스스로...'흥미로운' 지�
 
 GER_ww1_restructure_ostafrika:0 "독일령 동아프리카 개편"
 GER_ww1_restructure_ostafrika_desc:0 "동아프리카는 우리의 최대 식민지이지만, 그게 우리가 그곳에서 더 많은 일들을 할 수 없다는 의미는 아니다. 식민지 총독부의 역할과 행정 권한을 확대함으로서 그들은 그 지역을 우리를 위해 효율적으로 개발할 수 있다."
+
 GER_ww1_train_ostafrika:0 "독일 아프리카 수비대 배치"
 GER_ww1_train_ostafrika_desc:0 "Our colonial administrators have reported a large amount of local East African men who are unemployed fighters, looking to serve in the German army. If we can find some volunteers to train and lead this group, we could, if nothing else, hold out against British forces in the area as long as possible."
 
