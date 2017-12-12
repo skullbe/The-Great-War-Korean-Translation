@@ -393,10 +393,10 @@ GER_ww1_anti_fr:0 "반프랑스 정책"
 GER_ww1_anti_fr_desc:0 "먼 옛날부터, 독일인과 프랑스인은 적대관계이다. 우리가 이러한 현실에 행동을 취한다면, 먼 미래에 그들을 대처할 새롭고 흥미로운 선택지들을 열어줄 것이다."
 
 GER_ww1_anti_uk:0 "반영국 정책"
-GER_ww1_anti_uk_desc:0 "While the Anglo-German friendship was nice while it lasted, Germany and the United Kingdom have come to bear with each other in recent years, and it seems like this won't be reversed any time soon. Acknowledging our rivalry outright will open up some options to circumvent them diplomatically."
+GER_ww1_anti_uk_desc:0 "독-영 우호관계가 유지되는 동안, 독일과 영국은 근 몇 년간 서로를 참아왔고, 이 관계는 당장은 번복되지 않을 듯 하다. 우리가 노골적으로 경쟁 의식을 표한다면, 영국을 외교적으로 회피할 수 있는 다양한 선택지를 제공할 것이다."
 
 GER_ww1_support_boer:0 "독일령 남아프리카 강화"
-GER_ww1_support_boer_desc:0 "DSWA, also known as Namibia, is one of Germany's most important colonies. Ensuring that it's defensible in an attack could serve to help out our nation's war efforts if it came down to it, and this would only take minor investment."
+GER_ww1_support_boer_desc:0 “나미비아로도 불리는 독일령 남서아프리카(DSWA)는 독일에겐 가장 중요한 식민지 중 하나다. 나미비아가 공세를 버틸 수 있게 보장하는 것으로, 우리 나라에 전시 물자를 제공하는데 도움이 될 것이며, 이를 위해선 조금의 투자만 필요할 뿐이다.”
 
 GER_ww1_support_boer_war:0 "보어 봉기"
 GER_ww1_support_boer_war_desc:0 "The Boers of South Africa are still only recently conquered, and not adjusted to British rule quite yet. If we supply and train some of the Boers who seek independence from the UK, they may be able to rise up against South African officials, giving us a rare advantage in a mostly Entente-controlled region of the world."
@@ -408,7 +408,7 @@ GER_ww1_assert_position_east:0 "동유럽에 독일의 권리 주장"
 GER_ww1_assert_position_east_desc:0 "The position of the Central Powers in the East is the same- weaken Russia, and build hegemony in the region. As war with Russia in particular seems to be nearly inevitable, due to the Balkan situation, this is an effective course of action to take, though will drive France and Russia closer, which could prove to be an issue."
 
 GER_ww1_anti_ru:0 "반러시아 정책"
-GER_ww1_anti_ru_desc:0 "Russia is no friend of ours, and perhaps never will be again, due to their extravagant claims on not only friendly territory but our own Polish land. Accepting this truth could lead to some new ways to deal with them down the line." 
+GER_ww1_anti_ru_desc:0 "러시아는 우리들의 우방이 아니다. 자신들의 영토가 아니라 우리 소유 폴란드 영토에 터무니 없는 주장을 내세우고 있기에, 그들과 친해질 일은 아마 절대로 없을 것이다. 그러한 진실을 수용하는 건 그들을 태도를 떨어트릴 몇가지 새방법으로 이어질 것이다."
 
 GER_ww1_anti_serb:0 "반 세르비아 정책"
 GER_ww1_anti_serb_desc:0 "세르비아인들은 단지 오스트리아의 보스니아 지역을 얻을 수 있다면, 그들의 어머니마저도 팔아먹을 쥐새끼들이다. 만약 우리가 그들이 우리의 적국이라는 것을 인지하고 마주한다면 우리는 그들에게 대항할 준비를 할 수 있을 것이다."
