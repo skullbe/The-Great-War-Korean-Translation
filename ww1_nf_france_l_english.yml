@@ -5,7 +5,7 @@
  # [FRENCH REPUBLIC] Army Effort
  #=========================================================================
  FRA_ww1_army_effort:0 "프랑스 육군 개선"
-FRA_ww1_army_effort_desc:0 "Germany's army is larger, and worse, more experienced than our own, which is still stocked mostly with veterans from the last war we had against them. If France is to pose a serious threat to German interests, we must reverse this scenario, modernize our army, and hopefully modernize our leadership!"
+FRA_ww1_army_effort_desc:0 "독일의 군대는 우리보다 거대하고, 악하며, 보불전쟁의 베테랑들이 자리를 꿰차고 있어 경험이 풍부하다. 만약 프랑스가 독일의 이익에 있어 심각한 위협으로 자리매김하고 싶다면, 우린 반드시 이 시나리오를 뒤집고, 군을 현대화하며, 그리고 바라건대 우리 지도층을 현대화해야 한다!"
 
 FRA_ww1_trenchwarfare:0 "참호전 중점"
 FRA_ww1_trenchwarfare_desc:0 "" #KAISER_ANONY
@@ -69,7 +69,7 @@ FRA_ww1_gasmask_focus_desc:0 "" #KAISER_ANONY
  FRA_ww1_airship_focus_desc:0 "" #KAISER_ANONY
 
  FRA_ww1_aviation_effort:0 "프랑스 공군 편제"
- FRA_ww1_aviation_effort_desc:0 "While many of our Generals are not of the opinion that the war in the air will ever be of any significance, they have been wrong before. If we start developing infrastructure and recruiting designers for a French air force today, and they prove to be useful, we will be ready when the air war truly begins!"
+ FRA_ww1_aviation_effort_desc:0 "우리 장군들 대부분이 하늘에서의 전쟁에 대한 중요성을 인정하지 않았지만, 그들은 틀렸다. 만약 우리가 인프라를 구축하고 현 프랑스 공군을 위한 디자이너들을 모집해 유용함을 입증한다면, 진정 하늘에서의 전쟁이 발발할 때 우린 준비되어있을 것이다!"
 
 FRA_ww1_fighter_focus:0 "전투기 중점"
 FRA_ww1_fighter_focus_desc:0 "" #KAISER_ANONY
@@ -227,7 +227,7 @@ FRA_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
  FRA_ww1_sovereignist_ethos_desc:0 "" #KAISER_ANONY
 
  FRA_ww1_support_republic:0 "공화국의 권한 강화"
- FRA_ww1_support_republic_desc:0 "One of Napoleon's legacies was a strong, centralized Republic. In recent times, liberal views have given more checks and balances to weaken our glorious state. However, due to the rising tension, I'm sure the French public would understand if a few of those balances were rolled back. After all, anything for Alsase-Lorraine, right?" 
+ FRA_ww1_support_republic_desc:0 "나폴레옹의 유산 중 하나는 강력하고, 중앙집권화된 공화국이었다. 근래의 자유로운 견해는 우리의 영광스러운 조국을 약화시킬 견제와 균형을 가져다주었다. 그러나 긴장 상태의 고조로 인해, 나는 그 균형 중 몇 가지만 되돌리더라도 프랑스 대중들은 이해할 것이라고 확신한다. 무엇보다도 모든 건 알자스-로레인을 위해서다. 그렇지 않나?"
 
  FRA_ww1_contest_republic:0 "공화국의 권한에 이의제기"
  FRA_ww1_contest_republic_desc:0 "The Republic may be old, but our monarchy lasted even longer than that. France is not consigned to Republicanism- if we enable the opposition, perhaps we can even rid ourselves of such a system, before it's too late."
@@ -293,7 +293,7 @@ FRA_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
   FRA_ww1_leave_triple_entente_desc:0 "Since the direction of the French government has changed so drastically, we no longer have any significant connection, or national appeal for, an alliance with the United Kingdom and Russia. In fact, many of our citizens are already supporting a return to a rivalry with the former. This seems to be the end of the Triple Entente."
 
  FRA_ww1_install_communism:0 "프롤레타리아 혁명"
- FRA_ww1_install_communism_desc:0 "Paris has always had a rebellious tendancy, and in today's enviornment, this is no different. Support for another Red rebellion is growing in the self-proclaimed ''Paris Commune''. If this time, the government forces drop their guns, France may become a Communist nation, among the first of its kind."
+ FRA_ww1_install_communism_desc:0 "파리는 언제나 혁명의 불길에 휩싸여 있었고, 지금 상황에서도 다른 점은 없다. 다른 붉은 반란을 지원하는 건 자칭 "파리 코뮌"을 키우는 것이다. 만약 지금, 정부군이 총을 내려놓는다면, 프랑스는 세계 최초의 공산주의 국가가 될 것이다."
 
  #--------------------------------------------------------------
 
@@ -308,16 +308,16 @@ FRA_ww1_diplomatic_effort_desc:0 "" #KAISER_ANONY
 FRA_ww1_triple_alliance_desc:0 "The Entente was formed for a direct reason- to oppose German interests. We must remind the Russia that, for our squabbles, that is an aim we must stay true on, or else they might become too strong to oppose."
 
  FRA_ww1_back_uk:0 "영국을 지원한다"
-FRA_ww1_back_uk_desc:0 "The UK was France's worst enemy once, but that time has long gone. Supporting the UK further will perhaps sour our relations with the Russians just a bit, but solidly confirm to the UK that if they have the ships, we have the soldiers."
+FRA_ww1_back_uk_desc:0 "영국은 프랑스 최대의 적이었던 적이 있으나, 그 시절은 이미 지났다. 영국을 더 지원함으로서 아마도 러시아와의 관계가 조금 틀어질 것이나, 영국에게 해군이 있다면 우리에게 육군이 있다는 걸 명확히 할 수 있을 것이다."
 
  FRA_ww1_back_russia:0 "러시아 제국을 지원한다"
 FRA_ww1_back_russia_desc:0 "The Russians are a distant ally, seperated from us by the entirety of our rivals, the Central Powers! Yet, they are still the largest land army in Europe, if with some major supply issues, and are second only in ''true power'' to Germany themselves. We must focus our relations on them, even if it's at a slight cost in relations with Britain." 
 
  FRA_ww1_inviteBELGIUM:0 "벨기에를 돕자"
-FRA_ww1_inviteBELGIUM_desc:0 "The Belgians need our help to face the Germans."
+FRA_ww1_inviteBELGIUM_desc:0 "벨기에는 독일에게 맞서기 위해 우리의 도움이 필요하다."
 
  FRA_ww1_inviteUK:0 "삼국협상"
-FRA_ww1_inviteUK_desc:0 "The Triple Entente constitute a powerful counterweight to the Central Powers."
+FRA_ww1_inviteUK_desc:0 "삼국 협상은 동맹국들에 대한 강력한 균형추로 여겨진다."
 
  FRA_ww1_send_diplomats:0 "프랑스 외교관 파견"
 FRA_ww1_send_diplomats_desc:0 "Everyone in Europe loves our diplomats, or so our diplomats say! Funnily enough, they have a tendancy to be sent back home to France a while earlier than we expect. Either way, bolstering the Diplomat core will take some time (Most men aren't simply born snooty enough for the job), but likely lead to closer relations with our partners."
@@ -341,8 +341,7 @@ FRA_ww1_send_diplomats_desc:0 "Everyone in Europe loves our diplomats, or so our
  FRA_ww1_anti_ger_desc:0 "The Germans are our natural rivals, which is a nearly undeniable fact. If we act on that judgement, we can begin to undermine them diplomatically far more easily."
 
  FRA_ww1_anti_ah:0 "반오-헝 정책"
- FRA_ww1_anti_ah_desc:0 "Any friend of Germany's is no friend of France. If we are to start working actively against Austria-Hungaryi instead of try to bring them over, we can spoil their plans of expansionism."
-
+ FRA_ww1_anti_ah_desc:0 "독일의 친구는 곧 프랑스의 적이다. 만약 우리가 오스트리아-헝가리 제국을 끌어들이는 대신 적극적으로 그들에게 맞서기 시작한다면, 우린 그들의 팽창주의적 계획을 망칠 수 있을 것이다."
  FRA_ww1_italy_support:0 "이탈리아의 권리주장을 지지한다"
   FRA_ww1_italy_support_desc:0 "If we support Italy's claims in Austria, though they will not be immediately won over, we can at the very least begin the process of leading them away from the Central Powers and into the Entente, so long as they judge that territory more valuable than our own Italian territory..."
 
@@ -368,8 +367,8 @@ FRA_ww1_send_diplomats_desc:0 "Everyone in Europe loves our diplomats, or so our
  FRA_ww1_agadir_crisis_desc:0 "Rebels are beginning to organize against our puppet, the Sultan of Morocco. While we could intervene immediately, letting him feel the heat for a bit would not only be the perfect pretext for annexation, but also be a good way to ensure that the local governments comply in it. The Germans may try to stick their nose into our affairs, but we do have a backup plan if such is the case."
 
  FRA_ww1_ready_country:0 "전쟁 준비"
- FRA_ww1_ready_country_desc:0 "As the world tension continues to rise, France must build up to resist any oncoming invasion. When these defense measures are complete, there will be no siege of Paris this time."
-
+ FRA_ww1_ready_country_desc:0 "세계 긴장도가 고조되는 가운데, 프랑스는 반드시 다가오는 침공에 대비해야 한다. 이 방어 수단들이 완공되면, 더 이상 파리 공성전은 없을 것이다."
+ 
  FRA_ww1_alsaceloreaine_propaganda:0 "보복주의 선전"
  FRA_ww1_alsaceloreaine_propaganda_desc:0 "So what if Alsace-Lorraine is German-speaking? It was once French, and as God himself has ordained, all land touched by the French is righfully our own. The only way to get it is with a military campaign against the Germans, which we will begin to start building up support for."
 
