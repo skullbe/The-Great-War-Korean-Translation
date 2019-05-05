@@ -75,25 +75,25 @@
  AUH_ww1_fighter_equipment_1b_short:0 "HB C.I"
  AUH_ww1_fighter_equipment_1b_desc:0 "LDD타입 으로도 알려져있는 한사-브란덴부르크 C.I 은 당시 독일의 모회사를 위해서 일한 Ernst Heinkel사에서 제작한 무장 복좌 단발 엔진 정찰 복엽기입니다. C.I은 전작인 B.I과 비슷합니다."
 
- AUH_ww1_fighter_equipment_2:0 "Aviatik (Berg) D.I"
- AUH_ww1_fighter_equipment_2_short:0 "Aviatik D.I"
- AUH_ww1_fighter_equipment_2_desc:0 "The Aviatik D.I was the first locally designed fighter aircraft of the Austro-Hungarian Air Service (Luftfahrtruppen)."
+ AUH_ww1_fighter_equipment_2:0 "아비아틱 (Berg) D.I"
+ AUH_ww1_fighter_equipment_2_short:0 "아비아틱 D.I"
+ AUH_ww1_fighter_equipment_2_desc:0 "아비아틱 D.I는 오스트리아-헝가리 공군(Luftfahrtruppen)의 최초의 현지 설계된 전투기였습니다."
 
- AUH_ww1_fighter_equipment_2b:0 "Lloyd 40.15"
- AUH_ww1_fighter_equipment_2b_short:0 "Lloyd 40.15"
- AUH_ww1_fighter_equipment_2b_desc:0 "The Lloyd 40.15 was an experimental triplane fighter that was designed and built in the Austro-Hungarian Empire during World War I."
+ AUH_ww1_fighter_equipment_2b:0 "로이드 40.15"
+ AUH_ww1_fighter_equipment_2b_short:0 "로이드 40.15"
+ AUH_ww1_fighter_equipment_2b_desc:0 "로이드 40.15는 제 1 차 세계 대전 기간중 오스트리아 - 헝가리 제국에서 설계되고 제작된 시험형 삼엽 전투기입니다."
 
- AUH_ww1_fighter_equipment_3:0 "Phönix D.I"
- AUH_ww1_fighter_equipment_3_short:0 "Phönix D.I"
- AUH_ww1_fighter_equipment_3_desc:0 "The Phönix D.I was an Austro-Hungarian First World War biplane fighter built by the Phönix Flugzeug-Werke and based on the Hansa-Brandenburg D.I."
+ AUH_ww1_fighter_equipment_3:0 "피닉스 D.I"
+ AUH_ww1_fighter_equipment_3_short:0 "피닉스 D.I"
+ AUH_ww1_fighter_equipment_3_desc:0 "피닉스 D.I는 한사-브란덴부르크 D.I.를 기초로 비행기 제조사 피닉스가 제작한 오스트리아 - 헝가리의 제 1 차 세계 대전 복엽 전투기였습니다."
 
- AUH_ww1_fighter_equipment_4:0 "Phönix D.III"
- AUH_ww1_fighter_equipment_4_short:0 "Phönix D.III"
- AUH_ww1_fighter_equipment_4_desc:0 "To improve the problems of the Phönix D.I, a modified variant, the D.II was introduced with balanced elevators and balanced ailerons on the upper wings. A further development was the D.III which had balanced ailerons on both wings and a more powerful 230 hp (172 kW) Hiero in-line engine."
+ AUH_ww1_fighter_equipment_4:0 "피닉스 D.III"
+ AUH_ww1_fighter_equipment_4_short:0 "피닉스 D.III"
+ AUH_ww1_fighter_equipment_4_desc:0 "피닉스 D.I의 문제를 개선하기 위해, 개량형인 D.II는 균형 잡힌 승강타와 상단 날개에 균형 잡힌 보조 날개를 도입했습니다. D.IIl 는 추가 개량형으로 양쪽 날개에서 균형 잡힌 보조 날개와 더 강력한 230hp (172kW) Hiero 직렬 엔진을 갖추었습니다."
 
- AUH_ww1_bomber_equipment_1:0 "Hansa-Brandenburg G.I"
- AUH_ww1_bomber_equipment_1_short:0 "HB G.I"
- AUH_ww1_bomber_equipment_1_desc:0 "The Hansa-Brandenburg G.I was a bomber aircraft used to equip the Austro-Hungarian aviation corps in World War I. It was a mostly conventional large, three-bay biplane with staggered wings of slightly unequal span. The pilot and bombardier sat in a large open cockpit at the nose of the aircraft, with a second open cockpit for a gunner in a dorsal position behind the wings."
+ AUH_ww1_bomber_equipment_1:0 "한사-브란덴부르크 G.I"
+ AUH_ww1_bomber_equipment_1_short:0 "HB G.I" AUH_ww1_bomber_equipment_1_desc:0 "한사-브란덴부르크 G.I는 제 1 차 세계 대전에서 오스트리아 - 헝리가 항공 부대를 장비하기 위해 폭격기로 사용되었습니다. 기체는 대형기였고, 3 개의 베이로 된 복엽기였으며, 약간 엇갈린 날개를 지니고 있었습니다. 조종사와 폭격수는 항공기 기수의 넓은 조종석에 앉아 있었고 날개 뒤의 지느러미 위치에 포수를 위한 두 번째 열린 조종석이 있었습니다."
+
 
 
 
